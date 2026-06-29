@@ -1,0 +1,1183 @@
+Round,ID,Authors,Institution,Type of Institution,Public/Private,Profit/Non-profit,Country
+2,R2ACM209,Gilles Barthe,Institute for Security and Privacy,Academic Research Center,Private,Non-profit,Germany
+2,R2ACM209,Yingte Xu,Institute for Security and Privacy,Academic Research Center,Private,Non-profit,Germany
+1,SCP0058,Aritra Sarkar,QuTech,Academic Research Center,Public-private,Non-profit,Netherlands
+1,SCP0405,Axel Dahlberg,QuTech,Academic Research Center,Public-private,Non-profit,Netherlands
+1,SCP0405,Stephanie Wehner,QuTech,Academic Research Center,Public-private,Non-profit,Netherlands
+2,R2ACM137,Cécile M. Perrault,Alice & Bob,Company,Private,Profit,France
+2,R2ACM433,Hideto Ogawa,"Research & Development Group, Hitachi, Ltd.",Company,Private,Profit,Japan
+2,R2ACM433,Naoto Sato,"Research & Development Group, Hitachi, Ltd.",Company,Private,Profit,Japan
+2,R2ACM433,Ryota Katsube,"Research & Development Group, Hitachi, Ltd.",Company,Private,Profit,Japan
+2,R2ACM628,Erick Ochoa,AMD,Company,Private,Profit,Canada
+2,R2ACM628,Lukas Burgholzer,Munich Quantum Software Company,Company,Private,Profit,Germany
+2,R2ACM628,Patrick Hopf,Munich Quantum Software Company,Company,Private,Profit,Germany
+2,R2ACM628,Robert Wille,Munich Quantum Software Company,Company,Private,Profit,Germany
+2,R2ACM628,Josh Izaac,Xanadu,Company,Private,Profit,Canada
+2,R2ACM774,Harshitta Gandhi,QBit Solutions Research,Company,Private,Profit,United States
+2,R2ACM825,Masaomi Yamaguchi,Fujitsu Limited,Company,Private,Profit,Japan
+2,R2ACM825,Nobukazu Yoshioka,QAML Inc.,Company,Private,Profit,Japan
+2,R2IEEE1012,Shinobu Saito,Inc. Computer & Data Science Laboratories,Company,Private,Profit,Japan
+2,R2IEEE1034,Wolfgang Mauerer,"Siemens AG, Technology",Company,Private,Profit,Germany
+2,R2IEEE1052,Shinobu Saito,NTT Computer and Data Science Laboratories,Company,Private,Profit,Japan
+2,R2IEEE235,Naoto Sato,Hitachi Ltd.,Company,Private,Profit,Japan
+2,R2IEEE235,Ryota Katsube,Hitachi Ltd.,Company,Private,Profit,Japan
+2,R2IEEE32,Lukas Burgholzer,Munich Quantum Software Company GmbH,Company,Private,Profit,Germany
+2,R2IEEE32,Robert Wille,Munich Quantum Software Company GmbH,Company,Private,Profit,Germany
+2,R2IEEE32,Robert Wille,Software Competence Center Hagenberg GmbH (SCCH),Company,Public-private,Non-profit,Austria
+2,R2IEEE486,Sylvain Béland,"Software Management Research Center, Doramante",Company,Private,Profit,Canada
+2,R2IEEE64,Masaomi Yamaguchi,Fujitsu LTD.,Company,Private,Profit,Japan
+2,R2IEEE64,Norihiro Kakuko,Fujitsu LTD.,Company,Private,Profit,Japan
+2,R2IEEE64,Shun Gokita,Fujitsu LTD.,Company,Private,Profit,Japan
+2,R2IEEE64,Haruki Nakayama,"Systems Engineering Consultants Co., LTD.",Company,Private,Profit,Japan
+2,R2IEEE64,Keita Matsumoto,"Systems Engineering Consultants Co., LTD.",Company,Private,Profit,Japan
+2,R2IEEE64,Ryo Uchida,"Systems Engineering Consultants Co., LTD.",Company,Private,Profit,Japan
+2,R2IEEE64,Keita Sasada,Toyo Information Systems Inc.,Company,Private,Profit,Japan
+2,R2IEEE64,Yasuhito Takamiya,Toyo Information Systems Inc.,Company,Private,Profit,Japan
+2,R2IEEE695,Shinobu Saito,"NTT, Inc. Computer & Data Science Laboratories",Company,Private,Profit,Japan
+2,R2IEEE996,Shinobu Saito,NTT Computer and Data Science Laboratories,Company,Private,Profit,Japan
+2,R2SCP1230,Ana Díaz-Muñoz,AQCLab Software Quality,Company,Private,Profit,Spain
+2,R2SCP1230,Moisés Rodríguez,AQCLab Software Quality,Company,Private,Profit,Spain
+2,R2SCP841,John Dumbell,Oxford Quantum Circuits,Company,Private,Profit,United Kingdom
+1,SCP0002,Guido Peterssen,Quantum Software Technology,Company,Private,Profit,Spain
+1,SCP0002,Jose Luis Hevia,Quantum Software Technology,Company,Private,Profit,Spain
+1,SCP0012,Pauli Taipale,OP Financial Group,Company,Private,Profit,Finland
+1,SCP0012,Petri Liimatta,OP Financial Group,Company,Private,Profit,Finland
+1,SCP0024,Valtteri Lahtinen,Quanscient,Company,Private,Profit,Finland
+1,SCP0026,Guido Peterssen,aQuantum,Company,Private,Profit,Spain
+1,SCP0026,Jose Luis Hevia,aQuantum,Company,Private,Profit,Spain
+1,SCP0026,Mario Piattini,aQuantum,Company,Private,Profit,Spain
+1,SCP0033,Corey O'Meara,E.ON Digital Technology GmbH,Company,Private,Profit,Germany
+1,SCP0033,Giorgio Cortiana,E.ON Digital Technology GmbH,Company,Private,Profit,Germany
+1,SCP0033,Marina Fernández-Campoamor,E.ON Digital Technology GmbH,Company,Private,Profit,Germany
+1,SCP0047,Luis Jiménez-Navajas,aQuantum,Company,Private,Profit,Spain
+1,SCP0047,Mario Piattini,aQuantum,Company,Private,Profit,Spain
+1,SCP0047,Ricardo Pérez-Castillo,aQuantum,Company,Private,Profit,Spain
+1,SCP0057,Jose Luis Hevia  ,aQuantum,Company,Private,Profit,Spain
+1,SCP0057,Mario Piattini  ,aQuantum,Company,Private,Profit,Spain
+1,SCP0068,Krysta Svore,Microsoft Research,Company,Private,Profit,United States
+1,SCP0068,Matthias Troyer,Microsoft Research,Company,Private,Profit,United States
+1,SCP0071,Carmelo R. Cartiere,Nextsense Srl,Company,Private,Profit,Italy
+1,SCP0073,Jose Luis Hevia Oliver,aQuantum,Company,Private,Profit,Spain
+1,SCP0076,Guido Petersen,aQuantum,Company,Private,Profit,Spain
+1,SCP0076,Jose Luis Hevia,aQuantum,Company,Private,Profit,Spain
+1,SCP0084,Wolfgang Mauerer,Siemens AG,Company,Private,Profit,Germany
+1,SCP0106,Mark Fingerhuth  ,ProteinQure Inc.,Company,Private,Profit,Canada
+1,SCP0106,Tomáš Babej  ,ProteinQure Inc.,Company,Private,Profit,Canada
+1,SCP0116,Valtteri Lahtinen,Quanscient,Company,Private,Profit,Finland
+1,SCP0142,Shinobu Saito,NTT Computer and Data Science Laboratories,Company,Private,Profit,Japan
+1,SCP0157,Jean Paul Latyr Faye,CMC Microsystems,Company,Private,Non-profit,Canada
+1,SCP0157,Udson C. Mendes,CMC Microsystems,Company,Private,Non-profit,Canada
+1,SCP0183,Mariia Mykhailova,Microsoft Quantum,Company,Private,Profit,United States
+1,SCP0183,Mathias Soeken,Microsoft Quantum,Company,Private,Profit,United States
+1,SCP0199,Robert J. Hall,AT&T Labs Research,Company,Private,Profit,United States
+1,SCP0225,Ana Díaz Muñoz,AQCLab Software Quality,Company,Private,Profit,Spain
+1,SCP0225,Moisés Rodríguez Monje,AQCLab Software Quality,Company,Private,Profit,Spain
+1,SCP0230,Greg Stager,IBM,Company,Private,Profit,Canada
+1,SCP0230,John Peck,IBM,Company,Private,Profit,United States
+1,SCP0230,Michael Gray,IBM,Company,Private,Profit,Australia
+1,SCP0230,Walid Rjaibi,IBM,Company,Private,Profit,Canada
+1,SCP0260,Florian Krebs,JOANNEUM RESEARCH,Company,Public-private,Non-profit,Austria
+1,SCP0260,Hermann Fürntratt,JOANNEUM RESEARCH,Company,Public-private,Non-profit,Austria
+1,SCP0260,Herwig Zeiner,JOANNEUM RESEARCH,Company,Public-private,Non-profit,Austria
+1,SCP0260,Roland Unterberger,JOANNEUM RESEARCH,Company,Public-private,Non-profit,Austria
+1,SCP0261,Luis Jiménez-Navajas,aQuantum,Company,Private,Profit,Spain
+1,SCP0261,Ricardo Pérez-Castillo,aQuantum,Company,Private,Profit,Spain
+1,SCP0279,Valtteri Lahtinen,Quanscient,Company,Private,Profit,Finland
+1,SCP0307,Jingwei Chen,Qudoor Technologies Inc.,Company,Private,Profit,China
+1,SCP0310,Michele Marchesi,Netservice spa,Company,Private,Profit,Italy
+1,SCP0387,Benjamin Weps,Jena Optronik GmbH,Company,Private,Profit,Germany
+1,SCP0398,Sarah Marshall,Microsoft Quantum,Company,Private,Profit,United States
+1,SCP0482,Corey O'Meara,E.ON Digital Technology GmbH,Company,Private,Profit,Germany
+1,SCP0482,Giorgio Cortiana,E.ON Digital Technology GmbH,Company,Private,Profit,Germany
+1,SCP0482,Juan Bernabe-Moreno,E.ON Digital Technology GmbH,Company,Private,Profit,Germany
+1,SCP0482,Raul Berganza Gomez,E.ON Digital Technology GmbH,Company,Private,Profit,Germany
+1,WOS0348,Masaomi Yamaguchi,Fujitsu Ltd,Company,Private,Profit,Japan
+1,WOS1192,Hadi Salloum,QDeep,Company,Private,Profit,Russia
+1,WOS1192,Mohamad Nour Shahin,QDeep,Company,Private,Profit,Russia
+1,WOS1192,Suleiman Karim Eddin,QDeep,Company,Private,Profit,Russia
+2,R2ACM1014,Li Zhou,"Institute of Software, Chinese Academy of Sciences",Government/National Research Organization,Public,Non-profit,China
+2,R2ACM174,Li Zhou,"Institute of Software, Chinese Academy of Sciences",Government/National Research Organization,Public,Non-profit,China
+2,R2ACM209,Li Zhou,"Institute of Software, Chinese Academy of Sciences",Government/National Research Organization,Public,Non-profit,China
+2,R2ACM209,Yingte Xu,"Institute of Software, Chinese Academy of Sciences",Government/National Research Organization,Public,Non-profit,China
+2,R2ACM393,Li Zhou,"Institute of Software, Chinese Academy of Sciences",Government/National Research Organization,Public,Non-profit,China
+2,R2ACM393,Mengyu Zhao,"Institute of Software, Chinese Academy of Sciences",Government/National Research Organization,Public,Non-profit,China
+2,R2ACM393,Qifan Huang,"Institute of Software, Chinese Academy of Sciences",Government/National Research Organization,Public,Non-profit,China
+2,R2ACM681,Li Zhou,"Institute of Software, Chinese Academy of Sciences",Government/National Research Organization,Public,Non-profit,China
+2,R2ACM825,Fuyuki Ishikawa,National Institute of Informatics,Government/National Research Organization,Public,Non-profit,Japan
+2,R2IEEE1052,Michael Felderer,German Aerospace Center,Government/National Research Organization,Public,Non-profit,Germany
+2,R2IEEE718,Chao Wang,Shanghai Development Center of Computer Software Technology,Government/National Research Organization,Public,Non-profit,China
+2,R2IEEE718,Jianxin Ge,Shanghai Development Center of Computer Software Technology,Government/National Research Organization,Public,Non-profit,China
+2,R2IEEE718,Lizhi Cai,Shanghai Development Center of Computer Software Technology,Government/National Research Organization,Public,Non-profit,China
+2,R2IEEE718,Xuan Mao,Shanghai Development Center of Computer Software Technology,Government/National Research Organization,Public,Non-profit,China
+2,R2IEEE718,Zijie Huang,Shanghai Development Center of Computer Software Technology,Government/National Research Organization,Public,Non-profit,China
+2,R2SCP1197,Chao Wang,Shanghai Development Center of Computer Software Technology,Government/National Research Organization,Public,Non-profit,China
+2,R2SCP1197,Jianxin Ge,Shanghai Development Center of Computer Software Technology,Government/National Research Organization,Public,Non-profit,China
+2,R2SCP1197,Lizhi Cai,Shanghai Development Center of Computer Software Technology,Government/National Research Organization,Public,Non-profit,China
+2,R2SCP1197,Wuxu Wang,Shanghai Development Center of Computer Software Technology,Government/National Research Organization,Public,Non-profit,China
+2,R2SCP1197,Xuan Mao,Shanghai Development Center of Computer Software Technology,Government/National Research Organization,Public,Non-profit,China
+2,R2SCP1197,Zijie Huang,Shanghai Development Center of Computer Software Technology,Government/National Research Organization,Public,Non-profit,China
+2,R2SCP420,Jake Muff,VTT Technical Research Centre of Finland,Government/National Research Organization,Public,Non-profit,Finland
+2,R2SCP426,Didar Zowghi,Commonwealth Scientific and Industrial Research Organisation,Government/National Research Organization,Public,Non-profit,Australia
+2,R2SCP426,Muneera Bano,Commonwealth Scientific and Industrial Research Organisation,Government/National Research Organization,Public,Non-profit,Australia
+2,R2WOS896,Paolo Arcaini,National Institute of Informatics,Government/National Research Organization,Public,Non-profit,Japan
+1,ACM0007,Paolo Arcaini,National Institute of Informatics,Government/National Research Organization,Public,Non-profit,Japan
+1,SCP0011,Paolo Arcaini,National Institute of Informatics,Government/National Research Organization,Public,Non-profit,Japan
+1,SCP0066,Mingsheng Ying,Chinese Academy of Sciences,Government/National Research Organization,Public,Non-profit,China
+1,SCP0066,Nengkun Yu,Chinese Academy of Sciences,Government/National Research Organization,Public,Non-profit,China
+1,SCP0066,Runyao Duan,Chinese Academy of Sciences,Government/National Research Organization,Public,Non-profit,China
+1,SCP0066,Yuan Feng,Chinese Academy of Sciences,Government/National Research Organization,Public,Non-profit,China
+1,SCP0086,Muhammad Usman,Commonwealth Scientific and Industrial Research Organisation,Government/National Research Organization,Public,Non-profit,Australia
+1,SCP0111,Paolo Arcaini,National Institute of Informatics,Government/National Research Organization,Public,Non-profit,Japan
+1,SCP0142,Fuyuki Ishikawa,National Institute of Informatics,Government/National Research Organization,Public,Non-profit,Japan
+1,SCP0228,Mingsheng Ying,Chinese Academy of Sciences,Government/National Research Organization,Public,Non-profit,China
+1,SCP0279,Marko Paavola,VTT Technical Research Centre of Finland,Government/National Research Organization,Public,Non-profit,Finland
+1,SCP0307,Chao Wang,Shanghai Development Center of Computer Software Technology,Government/National Research Organization,Public,Non-profit,China
+1,SCP0307,JianXin Ge,Shanghai Development Center of Computer Software Technology,Government/National Research Organization,Public,Non-profit,China
+1,SCP0307,XueZhong Wu,Shanghai Development Center of Computer Software Technology,Government/National Research Organization,Public,Non-profit,China
+1,SCP0342,Paolo Arcaini,National Institute of Informatics,Government/National Research Organization,Public,Non-profit,Japan
+1,SCP0387,Andreas Gerndt,German Aerospace Center,Government/National Research Organization,Public,Non-profit,Germany
+1,SCP0387,Benjamin Weps,German Aerospace Center,Government/National Research Organization,Public,Non-profit,Germany
+1,SCP0387,Daniel Lüdtke,German Aerospace Center,Government/National Research Organization,Public,Non-profit,Germany
+1,SCP0387,Olaf Maibaum,German Aerospace Center,Government/National Research Organization,Public,Non-profit,Germany
+1,SCP0387,Tobias Franz,German Aerospace Center,Government/National Research Organization,Public,Non-profit,Germany
+1,SCP0609,Paolo Arcaini,National Institute of Informatics,Government/National Research Organization,Public,Non-profit,Japan
+1,WOS0157,Paolo Arcaini,National Institute of Informatics,Government/National Research Organization,Public,Non-profit,Japan
+1,WOS0348,Nobukazu Yoshioka,National Institute of Informatics,Government/National Research Organization,Public,Non-profit,Japan
+1,WOS0916,Paolo Arcaini,National Institute of Informatics,Government/National Research Organization,Public,Non-profit,Japan
+1,WOS0956,Paolo Arcaini,National Institute of Informatics,Government/National Research Organization,Public,Non-profit,Japan
+1,WOS1249,Paolo Arcaini,National Institute of Informatics,Government/National Research Organization,Public,Non-profit,Japan
+1,WOS1251,Paolo Arcaini,National Institute of Informatics,Government/National Research Organization,Public,Non-profit,Japan
+1,WOS1255,Fuyuki Ishikawa,National Institute of Informatics,Government/National Research Organization,Public,Non-profit,China
+1,WOS1255,Paolo Arcaini,National Institute of Informatics,Government/National Research Organization,Public,Non-profit,China
+1,WOS1388,Mingsheng Ying,Chinese Academy of Sciences,Government/National Research Organization,Public,Non-profit,China
+1,WOS1516,Peixun Long,Chinese Academy of Sciences,Government/National Research Organization,Public,Non-profit,China
+1,SCP0106,Peter Wittek,Creative Destruction Lab,Innovation Hub,Private,Non-profit,Canada
+1,SCP0038,Luis S. Barbosa,International Iberian Nanotechnology Laboratory,Intergovernmental Research Organization,Public-private,Non-profit,Portugal
+2,R2ACM681,Li Zhou,"State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences",National Laboratory,Public,Non-profit,China
+2,R2SCP841,Scott Pakin,Los Alamos National Laboratory,National Laboratory,Public,Non-profit,United States
+1,SCP0354,Alexander J. McCaskey,Oak Ridge National Laboratory,National Laboratory,Public,Non-profit,United States
+1,SCP0354,Thien Nguyen,Oak Ridge National Laboratory,National Laboratory,Public,Non-profit,United States
+1,SCP0374,Dirk Krucker,Deutsches Elektronen-Synchrotron,National Laboratory,Public,Non-profit,Germany
+1,SCP0374,Karl Jansen,Deutsches Elektronen-Synchrotron,National Laboratory,Public,Non-profit,Germany
+1,SCP0374,Kerstin Borras,Deutsches Elektronen-Synchrotron,National Laboratory,Public,Non-profit,Germany
+1,SCP0525,Fuchen Zhu,National Laboratory for Modern Communications,National Laboratory,Public,Non-profit,China
+2,R2ACM1014,Yingte Xu,Max Planck Institute for Security and Privacy (MPI-SP),Non-profit Research Institute,Private,Non-profit,Germany
+2,R2ACM209,Gilles Barthe,IMDEA Software Institute,Non-profit Research Institute,Private,Non-profit,Spain
+2,R2ACM459,Christoph Laaber,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+2,R2ACM459,Noah H. Oldfield,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+2,R2ACM459,Shaukat Ali,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+2,R2ACM459,Tao Yue,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+2,R2ACM681,Gilles Barthe,IMDEA Software Institute,Non-profit Research Institute,Private,Non-profit,Spain
+2,R2ACM681,Gilles Barthe,Max Planck Institute for Security and Privacy,Non-profit Research Institute,Private,Non-profit,Germany
+2,R2ACM765,Michael Kasper,Fraunhofer Singapore,Non-profit Research Institute,Private,Non-profit,Singapore
+2,R2IEEE207,Tingting Li,Shanghai Qi Zhi Institute,Non-profit Research Institute,Private,Non-profit,China
+2,R2IEEE349,Jonas Klamroth,FZI Research Center for Information Technology,Non-profit Research Institute,Private,Non-profit,Germany
+2,R2IEEE349,Max Scheerer,FZI Research Center for Information Technology,Non-profit Research Institute,Private,Non-profit,Germany
+2,R2IEEE349,Oliver Denninger,FZI Research Center for Information Technology,Non-profit Research Institute,Private,Non-profit,Germany
+2,R2SCP426,Shaukat Ali,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+2,R2WOS896,Eñaut Mendiluze,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+2,R2WOS896,Shaukat Ali,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+2,R2WOS896,Tao Yue,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,ACM0007,Shaukat Ali,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,SCP0011,Tao Yue,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,SCP0062,Colin Kai-Uwe Becker,Fraunhofer Institute for Open Communication Systems,Non-profit Research Institute,Private,Non-profit,Germany
+1,SCP0062,Ilie-Daniel Gheorghe-Pop,Fraunhofer Institute for Open Communication Systems,Non-profit Research Institute,Private,Non-profit,Germany
+1,SCP0062,Nikolay Tcholtchev,Fraunhofer Institute for Open Communication Systems,Non-profit Research Institute,Private,Non-profit,Germany
+1,SCP0091,Shaukat Ali,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,SCP0091,Tao Yue,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,SCP0106,Peter Wittek  ,Perimeter Institute for Theoretical Physics,Non-profit Research Institute,Private,Non-profit,Canada
+1,SCP0106,Peter Wittek  ,Vector Institute for Artificial Intelligence,Non-profit Research Institute,Private,Non-profit,Canada
+1,SCP0111,Tao Yue,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,SCP0121,André Souto,Telecommunications Institute,Non-profit Research Institute,Public-private,Non-profit,Portugal
+1,SCP0169,Shaukat Ali,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,SCP0169,Tao Yue,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,SCP0174,Florian Knable,Fraunhofer Institute for Industrial Engineering IAO,Non-profit Research Institute,Private,Non-profit,Germany
+1,SCP0174,Jonas Klamroth,FZI Research Center for Information Technology,Non-profit Research Institute,Private,Non-profit,Germany
+1,SCP0174,Max Scheerer,FZI Research Center for Information Technology,Non-profit Research Institute,Private,Non-profit,Germany
+1,SCP0174,Oliver Denninger,FZI Research Center for Information Technology,Non-profit Research Institute,Private,Non-profit,Germany
+1,SCP0200,Shaukat Ali,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,SCP0200,Tao Yue,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,SCP0296,Alexander Küchler,Fraunhofer AISEC,Non-profit Research Institute,Private,Non-profit,Germany
+1,SCP0296,Christian Banse,Fraunhofer AISEC,Non-profit Research Institute,Private,Non-profit,Germany
+1,SCP0296,Maximilian Kaul,Fraunhofer AISEC,Non-profit Research Institute,Private,Non-profit,Germany
+1,SCP0326,Ilie-Daniel Gheorghe-Pop,Fraunhofer Institute for Open Communication Systems,Non-profit Research Institute,Private,Non-profit,Germany
+1,SCP0326,Manfred Hauswirth,Fraunhofer Institute for Open Communication Systems,Non-profit Research Institute,Private,Non-profit,Germany
+1,SCP0326,Nikolay Tcholtchev,Fraunhofer Institute for Open Communication Systems,Non-profit Research Institute,Private,Non-profit,Germany
+1,SCP0326,Tom Ritter,Fraunhofer Institute for Open Communication Systems,Non-profit Research Institute,Private,Non-profit,Germany
+1,SCP0342,Asmar Muqeet,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,SCP0342,Shaukat Ali,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,SCP0342,Tao Yue,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,SCP0342,Xinyi Wang,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,SCP0609,Shaukat Ali,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,SCP0609,Tao Yue,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,SCP0609,Xinyi Wang,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,WOS0157,Shaukat Ali,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,WOS0157,Tao Yue,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,WOS0916,Asmar Muqeet,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,WOS0916,Shaukat Ali,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,WOS0916,Tao Yue,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,WOS0956,Eñaut Mendiluze,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,WOS0956,Shaukat Ali,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,WOS0956,Tao Yue,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,WOS1249,Shaukat Ali,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,WOS1249,Tao Yue,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,WOS1249,Xinyi Wang,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,WOS1251,Shaukat Ali,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,WOS1251,Tao Yue,Simula Research Laboratory,Non-profit Research Institute,Public,Non-profit,Norway
+1,WOS1192,Badee Salloum,Syrian Computer Society (SCASE),Professional Society,Private,Non-profit,Syria
+1,SCP0123,Enrique Moguel,Computing and Advanced Technologies Foundation of Extremadura,Innovation Center,Private,Non-profit,Spain
+1,SCP0123,Juan M. Murillo,Computing and Advanced Technologies Foundation of Extremadura,Innovation Center,Private,Non-profit,Spain
+2,R2ACM101,Avner Bensoussan,King's College London,University,Public,Non-profit,United Kingdom
+2,R2ACM101,Gunel Jahangirova,King's College London,University,Public,Non-profit,United Kingdom
+2,R2ACM101,Mohammadreza Mousavi,King's College London,University,Public,Non-profit,United Kingdom
+2,R2ACM1014,Xiaoquan Xu,Chinese Academy of Sciences and University of Chinese Academy of Sciences,University,Public,Non-profit,China
+2,R2ACM1014,Yuan Feng,Tsinghua University,University,Public,Non-profit,China
+2,R2ACM1025,Álvaro M. Aparicio-Morales,University of Extremadura,University,Public,Non-profit,Spain
+2,R2ACM1025,Enrique Moguel,University of Extremadura,University,Public,Non-profit,Spain
+2,R2ACM1025,Jaime Alvarado-Valiente,University of Extremadura,University,Public,Non-profit,Spain
+2,R2ACM1025,Javier Romero-Alvarez,University of Extremadura,University,Public,Non-profit,Spain
+2,R2ACM1025,Jose Garcia-Alonso,University of Extremadura,University,Public,Non-profit,Spain
+2,R2ACM1025,Juan M. Murillo,University of Extremadura,University,Public,Non-profit,Spain
+2,R2ACM1025,Alessandro Bocci,University of Pisa,University,Public,Non-profit,Italy
+2,R2ACM1025,Antonio Brogi,University of Pisa,University,Public,Non-profit,Italy
+2,R2ACM1025,Giuseppe Bisicchia,University of Pisa,University,Public,Non-profit,Italy
+2,R2ACM1025,Adrián Romero-Flores,University of Seville,University,Public,Non-profit,Spain
+2,R2ACM1025,Alfonso E. Marquez-Chamorro,University of Seville,University,Public,Non-profit,Spain
+2,R2ACM1025,Antonio Ruiz-Cortés,University of Seville,University,Public,Non-profit,Spain
+2,R2ACM1025,Francisco Javier Cavero,University of Seville,University,Public,Non-profit,Spain
+2,R2ACM1025,José Antonio Parejo,University of Seville,University,Public,Non-profit,Spain
+2,R2ACM1066,Avner Bensoussan,King's College London,University,Public,Non-profit,United Kingdom
+2,R2ACM1066,Connor Lenihan,King's College London,University,Public,Non-profit,United Kingdom
+2,R2ACM1066,Elena Chachkarova,King's College London,University,Public,Non-profit,United Kingdom
+2,R2ACM1066,Karine Even-Mendoza,King's College London,University,Public,Non-profit,United Kingdom
+2,R2ACM1066,Sophie Fortz,King's College London,University,Public,Non-profit,United Kingdom
+2,R2ACM1066,Vasileios Klimis,Queen Mary University of London,University,Public,Non-profit,United Kingdom
+2,R2ACM1087,Antonio Curci,University of Bari Aldo Moro,University,Public,Non-profit,Italy
+2,R2ACM1087,Antonio Lopopolo,University of Bari Aldo Moro,University,Public,Non-profit,Italy
+2,R2ACM1087,Antonio Piccinno,University of Bari Aldo Moro,University,Public,Non-profit,Italy
+2,R2ACM1087,Danilo Caivano,University of Bari Aldo Moro,University,Public,Non-profit,Italy
+2,R2ACM1087,Miriana Calvano,University of Bari Aldo Moro,University,Public,Non-profit,Italy
+2,R2ACM1087,Vita Santa Barletta,University of Bari Aldo Moro,University,Public,Non-profit,Italy
+2,R2ACM115,Avner Bensoussan,King's College London,University,Public,Non-profit,United Kingdom
+2,R2ACM115,Connor Lenihan,King's College London,University,Public,Non-profit,United Kingdom
+2,R2ACM115,Elena Chachkarova,King's College London,University,Public,Non-profit,United Kingdom
+2,R2ACM115,Karine Even-Mendoza,King's College London,University,Public,Non-profit,United Kingdom
+2,R2ACM115,Sophie Fortz,King's College London,University,Public,Non-profit,United Kingdom
+2,R2ACM1150,Higor Amario de Souza,São Paulo State University (UNESP),University,Public,Non-profit,Brazil
+2,R2ACM1150,Marcos Lordello Chaim,University of São Paulo,University,Public,Non-profit,Brazil
+2,R2ACM1150,Neilson Carlos Leite Ramalho,University of São Paulo,University,Public,Non-profit,Brazil
+2,R2ACM1172,Ivona Brandic,TU Wien,University,Public,Non-profit,Austria
+2,R2ACM1172,Jürgen Cito,TU Wien,University,Public,Non-profit,Austria
+2,R2ACM1172,Vincenzo De Maio,TU Wien,University,Public,Non-profit,Austria
+2,R2ACM1172,Ewa Deelman,University of Southern California,University,Private,Non-profit,United States
+2,R2ACM1192,Kaitlin N Smith,Northwestern University,University,Private,Non-profit,United States
+2,R2ACM1192,Mingyoung Jessica Jeng,Northwestern University,University,Private,Non-profit,United States
+2,R2ACM1192,Hyeok Kim,University of Washington,University,Public,Non-profit,United States
+2,R2ACM137,Muhammad Azeem Akbar,LUT University,University,Public,Non-profit,Finland
+2,R2ACM137,Arif Ali Khan,University of Oulu,University,Public,Non-profit,Finland
+2,R2ACM137,Davide Taibi,University of Oulu,University,Public,Non-profit,Finland
+2,R2ACM174,Bonan Su,Tsinghua University,University,Public,Non-profit,China
+2,R2ACM174,Yuan Feng,Tsinghua University,University,Public,Non-profit,China
+2,R2ACM174,Mingsheng Ying,University of Technology Sydney,University,Public,Non-profit,Australia
+2,R2ACM393,Mengyu Zhao,University of Chinese Academy of Sciences,University,Public,Non-profit,China
+2,R2ACM393,Qifan Huang,University of Chinese Academy of Sciences,University,Public,Non-profit,China
+2,R2ACM393,Wang Fang,University of Edinburgh,University,Public,Non-profit,United Kingdom
+2,R2ACM393,Mingsheng Ying,University of Technology Sydney,University,Public,Non-profit,Australia
+2,R2ACM419,Charlie Campbell,Imperial College London,University,Public,Non-profit,United Kingdom
+2,R2ACM419,Hao (Mark) Chen,Imperial College London,University,Public,Non-profit,United Kingdom
+2,R2ACM419,Hongxiang Fan,Imperial College London,University,Public,Non-profit,United Kingdom
+2,R2ACM419,Wayne Luk,Imperial College London,University,Public,Non-profit,United Kingdom
+2,R2ACM433,Masanari Kondo,Kyushu University,University,Public,Non-profit,Japan
+2,R2ACM433,Yasutaka Kamei,Kyushu University,University,Public,Non-profit,Japan
+2,R2ACM433,Yuta Ishimoto,Kyushu University,University,Public,Non-profit,Japan
+2,R2ACM433,Naoyasu Ubayashi,Waseda University,University,Private,Non-profit,Japan
+2,R2ACM452,Nek Dil Khan,Beijing University of Technology,University,Public,Non-profit,China
+2,R2ACM452,Muhammad Azeem Akbar,LUT University,University,Public,Non-profit,Finland
+2,R2ACM452,Mobashir Husain,University of Engineering and Technology Mardan,University,Public,Non-profit,Pakistan
+2,R2ACM452,Muhammad Sohail Khan,University of Engineering and Technology Mardan,University,Public,Non-profit,Pakistan
+2,R2ACM452,Javed Ali Khan,University of Hertfordshire,University,Public,Non-profit,United Kingdom
+2,R2ACM452,Arif Ali Khan,University of Oulu,University,Public,Non-profit,Finland
+2,R2ACM459,Shaukat Ali,Oslo Metropolitan University,University,Public,Non-profit,Norway
+2,R2ACM459,Noah H. Oldfield,University of Oslo,University,Public,Non-profit,Norway
+2,R2ACM512,Benjamin Weder,University of Stuttgart,University,Public,Non-profit,Germany
+2,R2ACM512,Daniel Vietz,University of Stuttgart,University,Public,Non-profit,Germany
+2,R2ACM512,Frank Leymann,University of Stuttgart,University,Public,Non-profit,Germany
+2,R2ACM512,Johanna Barzen,University of Stuttgart,University,Public,Non-profit,Germany
+2,R2ACM512,Lavinia Stiliadou,University of Stuttgart,University,Public,Non-profit,Germany
+2,R2ACM512,Martin Beisel,University of Stuttgart,University,Public,Non-profit,Germany
+2,R2ACM521,Congliang Lang,Zhejiang University,University,Public,Non-profit,China
+2,R2ACM521,Debin Xiang,Zhejiang University,University,Public,Non-profit,China
+2,R2ACM521,Jianwei Yin,Zhejiang University,University,Public,Non-profit,China
+2,R2ACM521,Jintao Chen,Zhejiang University,University,Public,Non-profit,China
+2,R2ACM521,Liqiang Lu,Zhejiang University,University,Public,Non-profit,China
+2,R2ACM521,Siwei Tan,Zhejiang University,University,Public,Non-profit,China
+2,R2ACM521,Tianyao Chu,Zhejiang University,University,Public,Non-profit,China
+2,R2ACM521,Xing Hu,Zhejiang University,University,Public,Non-profit,China
+2,R2ACM628,Damian Rovara,Technical University of Munich,University,Public,Non-profit,Germany
+2,R2ACM628,Ioan Albert Florea,Technical University of Munich,University,Public,Non-profit,Germany
+2,R2ACM628,Lukas Burgholzer,Technical University of Munich,University,Public,Non-profit,Germany
+2,R2ACM628,Nils Quetschlich,Technical University of Munich,University,Public,Non-profit,Germany
+2,R2ACM628,Patrick Hopf,Technical University of Munich,University,Public,Non-profit,Germany
+2,R2ACM628,Robert Wille,Technical University of Munich,University,Public,Non-profit,Germany
+2,R2ACM628,Yannick Stade,Technical University of Munich,University,Public,Non-profit,Germany
+2,R2ACM65,Martin Beseda,University of L’Aquila,University,Public,Non-profit,Italy
+2,R2ACM65,Antonio Trovato,University of Salerno,University,Public,Non-profit,Italy
+2,R2ACM65,Dario Di Nucci,University of Salerno,University,Public,Non-profit,Italy
+2,R2ACM681,Mingsheng Ying,University of Technology Sydney,University,Public,Non-profit,Australia
+2,R2ACM774,Aditya Ranjan,Northeastern University,University,Private,Non-profit,United States
+2,R2ACM774,Daniel Silver,Northeastern University,University,Private,Non-profit,United States
+2,R2ACM774,Devesh Tiwari,Northeastern University,University,Private,Non-profit,United States
+2,R2ACM774,William Cutler,Oxford University,University,Public,Non-profit,United Kingdom
+2,R2ACM774,Tirthak Patel,Rice University,University,Private,Non-profit,United States
+2,R2ACM792,Benjamin Weder,University of Stuttgart,University,Public,Non-profit,Germany
+2,R2ACM792,Daniel Vietz,University of Stuttgart,University,Public,Non-profit,Germany
+2,R2ACM792,Frank Leymann,University of Stuttgart,University,Public,Non-profit,Germany
+2,R2ACM792,Johanna Barzen,University of Stuttgart,University,Public,Non-profit,Germany
+2,R2ACM792,Lavinia Stiliadou,University of Stuttgart,University,Public,Non-profit,Germany
+2,R2ACM792,Martin Beisel,University of Stuttgart,University,Public,Non-profit,Germany
+2,R2ACM825,Nobukazu Yoshioka,Waseda University,University,Private,Non-profit,Japan
+2,R2ACM829,Beibei Yin,Beihang University,University,Public,Non-profit,China
+2,R2ACM829,Kai-Yuan Cai,Beihang University,University,Public,Non-profit,China
+2,R2ACM829,Yuechen Li,Beihang University,University,Public,Non-profit,China
+2,R2ACM860,Aakash Ahmad,Lancaster University,University,Public,Non-profit,Germany
+2,R2ACM860,Muhammad Waseem,Tampere University,University,Public,Non-profit,Finland
+2,R2ACM860,Muhammad Taimoor Khan,University of Greenwich,University,Public,Non-profit,United Kingdom
+2,R2ACM860,Majid Haghparast,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2ACM860,Tommi Mikkonen,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2ACM860,Vlad Stirbu,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2ACM860,Peng Liang,Wuhan University,University,Public,Non-profit,China
+2,R2ACM897,Alex Rice,University of Edinburgh,University,Public,Non-profit,United Kingdom
+2,R2ACM897,Chris Heunen,University of Edinburgh,University,Public,Non-profit,United Kingdom
+2,R2ACM897,Louis Lemonnier,University of Edinburgh,University,Public,Non-profit,United Kingdom
+2,R2ACM912,Jianjun Zhao,Kyushu University,University,Public,Non-profit,Japan
+2,R2ACM912,Shangzhou Xia,Kyushu University,University,Public,Non-profit,Japan
+2,R2ACM912,Xiaoyu Guo,Kyushu University,University,Public,Non-profit,Japan
+2,R2ACM912,Fuyuan Zhang,The University of Tokyo,University,Public,Non-profit,Japan
+2,R2ACM928,Kai Zhou,University of Colorado Boulder,University,Public,Non-profit,United States
+2,R2ACM928,Pietro Zanotta,University of Colorado Boulder,University,Public,Non-profit,United States
+2,R2ACM928,Ramin Ayanzadeh,University of Colorado Boulder,University,Public,Non-profit,United States
+2,R2ACM928,Yicheng Guang,University of Colorado Boulder,University,Public,Non-profit,United States
+2,R2ACM928,Yueqi Chen,University of Colorado Boulder,University,Public,Non-profit,United States
+2,R2IEEE1004,Benjamin Weder,University of Stuttgart,University,Public,Non-profit,Germany
+2,R2IEEE1004,Daniel Georg,University of Stuttgart,University,Public,Non-profit,Germany
+2,R2IEEE1004,Fabian Bühler,University of Stuttgart,University,Public,Non-profit,Germany
+2,R2IEEE1004,Frank Leymann,University of Stuttgart,University,Public,Non-profit,Germany
+2,R2IEEE1004,Johanna Barzen,University of Stuttgart,University,Public,Non-profit,Germany
+2,R2IEEE1004,Lavinia Stiliadou,University of Stuttgart,University,Public,Non-profit,Germany
+2,R2IEEE1004,Martin Beisel,University of Stuttgart,University,Public,Non-profit,Germany
+2,R2IEEE1005,Daniel Sierra,The Catholic University of America,University,Private,Non-profit,United States
+2,R2IEEE1005,Cristian Marquez,University of the Andes,University,Private,Non-profit,Colombia
+2,R2IEEE1005,Kelly Garcés,University of the Andes,University,Private,Non-profit,Colombia
+2,R2IEEE1034,Lukas Schmidbauer,Technical University of Applied Sciences Regensburg,University,Public,Non-profit,Germany
+2,R2IEEE1034,Wolfgang Mauerer,Technical University of Applied Sciences Regensburg,University,Public,Non-profit,Germany
+2,R2IEEE1052,Schahram Dustdar,TU Wien,University,Public,Non-profit,Austria
+2,R2IEEE1052,Ricardo Pérez-Castillo,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+2,R2IEEE1052,Michael Felderer,University of Cologne,University,Public,Non-profit,Germany
+2,R2IEEE1052,Juan Manuel Murillo,University of Extremadura,University,Public,Non-profit,Spain
+2,R2IEEE1052,Antonio Brogi,University of Pisa,University,Public,Non-profit,Italy
+2,R2IEEE1052,Antonio Ruiz-Cortés,University of Seville,University,Public,Non-profit,Spain
+2,R2IEEE1052,Hausi Muller,University of Victoria,University,Public,Non-profit,Canada
+2,R2IEEE1052,Ulrike Stege,University of Victoria,University,Public,Non-profit,Canada
+2,R2IEEE1111,Prakash Murali,University of Cambridge,University,Public,Non-profit,United Kingdom
+2,R2IEEE1111,Sanaa Sharma,University of Cambridge,University,Public,Non-profit,United Kingdom
+2,R2IEEE1156,Olivia Di Matteo,The University of British Columbia,University,Public,Non-profit,Canada
+2,R2IEEE1168,Haibo Yu,Kyushu Sangyo University,University,Private,Non-profit,Japan
+2,R2IEEE1168,Jianjun Zhao,Kyushu University,University,Public,Non-profit,Japan
+2,R2IEEE1182,Mahee Gamage,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2IEEE1182,Otso Kinanen,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2IEEE1182,Vlad Stirbu,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2IEEE1221,Samah Mohamed Saeed,"City College of New York, City University of New York",University,Public,Non-profit,United States
+2,R2IEEE1221,Donald Lushi,City University of New York,University,Public,Non-profit,United States
+2,R2IEEE1221,Samah Mohamed Saeed,City University of New York,University,Public,Non-profit,United States
+2,R2IEEE1249,Jianjun Zhao,Kyushu University,University,Public,Non-profit,Japan
+2,R2IEEE128,Jake Zappin,College of William & Mary,University,Public,Non-profit,United States
+2,R2IEEE13,Enrique Moguel,University of Extremadura,University,Public,Non-profit,Spain
+2,R2IEEE13,Jaime Alvarado-Valiente,University of Extremadura,University,Public,Non-profit,Spain
+2,R2IEEE13,Javier Romero-Álvarez,University of Extremadura,University,Public,Non-profit,Spain
+2,R2IEEE13,Jose Garcia-Alonso,University of Extremadura,University,Public,Non-profit,Spain
+2,R2IEEE13,Juan M. Murillo,University of Extremadura,University,Public,Non-profit,Spain
+2,R2IEEE188,Krishna Upadhyay,Louisiana State University,University,Public,Non-profit,United States
+2,R2IEEE188,Umar Farooq,Louisiana State University,University,Public,Non-profit,United States
+2,R2IEEE188,Vinaik Chhetri,Louisiana State University,University,Public,Non-profit,United States
+2,R2IEEE188,A.B. Siddique,University of Kentucky,University,Public,Non-profit,United States
+2,R2IEEE207,Jianwei Yin,Zhejiang University,University,Public,Non-profit,China
+2,R2IEEE207,Tingting Li,Zhejiang University,University,Public,Non-profit,China
+2,R2IEEE207,Ziming Zhao,Zhejiang University,University,Public,Non-profit,China
+2,R2IEEE208,Alejandro Fernandez,National University of La Plata,University,Public,Non-profit,Argentina
+2,R2IEEE208,Joaquin Bogado,National University of La Plata,University,Public,Non-profit,Argentina
+2,R2IEEE208,José Manuel Suárez,National University of La Plata,University,Public,Non-profit,Argentina
+2,R2IEEE208,Luis Mariano Bibbó,National University of La Plata,University,Public,Non-profit,Argentina
+2,R2IEEE231,Denys Poshyvanyk,College of William & Mary,University,Public,Non-profit,United States
+2,R2IEEE231,Jake Zappin,College of William & Mary,University,Public,Non-profit,United States
+2,R2IEEE231,Oscar Chaparro,College of William & Mary,University,Public,Non-profit,United States
+2,R2IEEE231,Trevor Stalnaker,College of William & Mary,University,Public,Non-profit,United States
+2,R2IEEE25,Beibei Yin,Beihang University,University,Public,Non-profit,China
+2,R2IEEE25,Kai-Yuan Cai,Beihang University,University,Public,Non-profit,China
+2,R2IEEE25,Yuechen Li,Beihang University,University,Public,Non-profit,China
+2,R2IEEE32,Damian Rovara,Technical University of Munich,University,Public,Non-profit,Germany
+2,R2IEEE32,Lukas Burgholzer,Technical University of Munich,University,Public,Non-profit,Germany
+2,R2IEEE32,Robert Wille,Technical University of Munich,University,Public,Non-profit,Germany
+2,R2IEEE331,Daniel Jara,Universidad del Bío-Bío,University,Public,Non-profit,Chile
+2,R2IEEE331,Diego Williams,Universidad del Bío-Bío,University,Public,Non-profit,Chile
+2,R2IEEE331,Gastón Márquez,Universidad del Bío-Bío,University,Public,Non-profit,Chile
+2,R2IEEE337,Julian Fuchs,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2IEEE337,Jussi P P Jokinen,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2IEEE337,Majid Haghparast,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2IEEE337,Ronja Heikkinen,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2IEEE337,Samuel Ovaskainen,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2IEEE337,Tommi Mikkonen,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2IEEE337,Julian Fuchs,University of Potsdam,University,Public,Non-profit,Germany
+2,R2IEEE365,Ahmik Virani,Indian Institute of Technology Hyderabad,University,Public,Non-profit,India
+2,R2IEEE365,Devraj,Indian Institute of Technology Hyderabad,University,Public,Non-profit,India
+2,R2IEEE365,M V Panduranga Rao,Indian Institute of Technology Hyderabad,University,Public,Non-profit,India
+2,R2IEEE365,Lei Zhang,University of Maryland Baltimore County,University,Public,Non-profit,United States
+2,R2IEEE365,Anirudh Suresh,University of Maryland College Park,University,Public,Non-profit,United States
+2,R2IEEE486,Hassan Soubra,Ecole Centrale d’Electronique (ECE),University,Private,Non-profit,France
+2,R2IEEE486,Alain Abran,School of Higher Technology,University,Public,Non-profit,Canada
+2,R2IEEE486,Pierre Bourque,School of Higher Technology,University,Public,Non-profit,Canada
+2,R2IEEE486,Tuna Hacaloglu,School of Higher Technology,University,Public,Non-profit,Canada
+2,R2IEEE539,Chandan Kumar,Amrita Vishwa Vidyapeetham,University,Private,Non-profit,India
+2,R2IEEE539,Pathan Shaheen Khan,Amrita Vishwa Vidyapeetham,University,Private,Non-profit,India
+2,R2IEEE622,Hassan Soubra,Ecole Centrale d’Electronique (ECE),University,Private,Non-profit,France
+2,R2IEEE622,Youssef Adel,German University in Cairo (GUC),University,Private,Non-profit,Egypt
+2,R2IEEE622,Alain Abran,School of Higher Technology,University,Public,Non-profit,Canada
+2,R2IEEE622,Pierre Bourque,School of Higher Technology,University,Public,Non-profit,Canada
+2,R2IEEE622,Tuna Hacaloglu,School of Higher Technology,University,Public,Non-profit,Canada
+2,R2IEEE64,Kosuke Miyaji,Osaka University,University,Public,Non-profit,Japan
+2,R2IEEE64,Naoyuki Masumoto,Osaka University,University,Public,Non-profit,Japan
+2,R2IEEE64,Satoyuki Tsukano,Osaka University,University,Public,Non-profit,Japan
+2,R2IEEE64,Takafumi Miyanaga,Osaka University,University,Public,Non-profit,Japan
+2,R2IEEE64,Toshio Mori,Osaka University,University,Public,Non-profit,Japan
+2,R2IEEE689,Armin Moin,University of Colorado Colorado Springs (UCCS),University,Public,Non-profit,United States
+2,R2IEEE689,Nazanin Siavash,University of Colorado Colorado Springs (UCCS),University,Public,Non-profit,United States
+2,R2IEEE695,Jianjun Zhao,Kyushu University,University,Public,Non-profit,Japan
+2,R2IEEE695,Xiaoyu Guo,Kyushu University,University,Public,Non-profit,Japan
+2,R2IEEE718,Lizhi Cai,East China University of Science and Technology,University,Public,Non-profit,China
+2,R2IEEE718,Xuan Mao,East China University of Science and Technology,University,Public,Non-profit,China
+2,R2IEEE728,Armin Moin,University of Colorado Colorado Springs (UCCS),University,Public,Non-profit,United States
+2,R2IEEE728,Nazanin Siavash,University of Colorado Colorado Springs (UCCS),University,Public,Non-profit,United States
+2,R2IEEE759,Jianjun Zhao,Kyushu University,University,Public,Non-profit,Japan
+2,R2IEEE759,Shangzhou Xia,Kyushu University,University,Public,Non-profit,Japan
+2,R2IEEE759,Tiancheng Jin,Kyushu University,University,Public,Non-profit,Japan
+2,R2IEEE773,Kai Zhou,University of Colorado Boulder,University,Public,Non-profit,United States
+2,R2IEEE773,Pietro Zanotta,University of Colorado Boulder,University,Public,Non-profit,United States
+2,R2IEEE773,Ramin Ayanzadeh,University of Colorado Boulder,University,Public,Non-profit,United States
+2,R2IEEE773,Yicheng Guang,University of Colorado Boulder,University,Public,Non-profit,United States
+2,R2IEEE773,Yueqi Chen,University of Colorado Boulder,University,Public,Non-profit,United States
+2,R2IEEE887,Jianjun Zhao,Kyushu University,University,Public,Non-profit,Japan
+2,R2IEEE887,Minggu Wang,Kyushu University,University,Public,Non-profit,Japan
+2,R2IEEE887,Xiaoyu Guo,Kyushu University,University,Public,Non-profit,Japan
+2,R2IEEE942,Domenico Bianculli,University of Luxembourg,University,Public,Non-profit,Luxembourg
+2,R2IEEE942,Fabrizio Pastore,University of Luxembourg,University,Public,Non-profit,Luxembourg
+2,R2IEEE942,Seung Yeob Shin,University of Luxembourg,University,Public,Non-profit,Luxembourg
+2,R2IEEE962,Jose Garcia-Alonso,"SPILab, University of Extremadura",University,Public,Non-profit,Spain
+2,R2IEEE962,Juan M. Murillo,"SPILab, University of Extremadura",University,Public,Non-profit,Spain
+2,R2IEEE962,Enrique Moguel,University of Extremadura,University,Public,Non-profit,Spain
+2,R2IEEE962,Antonio Ruiz-Cortés,University of Seville,University,Public,Non-profit,Spain
+2,R2IEEE962,José Antonio Parejo,University of Seville,University,Public,Non-profit,Spain
+2,R2IEEE964,Majid Haghparast,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2IEEE964,Samuel Ovaskainen,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2IEEE964,Tommi Mikkonen,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2IEEE966,Mina Alipour,University of Southern Denmark,University,Public,Non-profit,Denmark
+2,R2IEEE969,Higor A. de Souza,São Paulo State University,University,Public,Non-profit,Brazil
+2,R2IEEE969,Erico A. da Silva,University of São Paulo,University,Public,Non-profit,Brazil
+2,R2IEEE969,Marcos Lordello Chaim,University of São Paulo,University,Public,Non-profit,Brazil
+2,R2IEEE969,Neilson C. L. Ramalho,University of São Paulo,University,Public,Non-profit,Brazil
+2,R2IEEE971,Mohammad Hassan,University of Prince Edward Island,University,Public,Non-profit,Canada
+2,R2IEEE971,Ashis Kumar Mandal,University of Saskatchewan,University,Public,Non-profit,Canada
+2,R2IEEE971,Chanchal K. Roy,University of Saskatchewan,University,Public,Non-profit,Canada
+2,R2IEEE971,Md Nadim,University of Saskatchewan,University,Public,Non-profit,Canada
+2,R2IEEE984,Huixiang Zhang,Lakehead University,University,Public,Non-profit,Canada
+2,R2IEEE984,Mahzabeen Emu,Memorial University of Newfoundland,University,Public,Non-profit,Canada
+2,R2IEEE984,Mahzabeen Emu,Memorial University of Newfoundland,University,Public,Non-profit,Canada
+2,R2IEEE984,Mahzabeen Emu,Memorial University of Newfoundland,University,Public,Non-profit,Canada
+2,R2IEEE996,Jianjun Zhao,Kyushu University,University,Public,Non-profit,Japan
+2,R2IEEE996,Xiaoyu Guo,Kyushu University,University,Public,Non-profit,Japan
+2,R2SCP1001,Ignacio García-Rodríguez,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+2,R2SCP1001,Macario Polo,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+2,R2SCP1001,Enrique Moguel,University of Extremadura,University,Public,Non-profit,Spain
+2,R2SCP1001,Jaime Alvarado-Valiente,University of Extremadura,University,Public,Non-profit,Spain
+2,R2SCP1001,Javier Romero-Alvarez,University of Extremadura,University,Public,Non-profit,Spain
+2,R2SCP1001,Jose Garcia-Alonso,University of Extremadura,University,Public,Non-profit,Spain
+2,R2SCP1001,Juan M. Murillo,University of Extremadura,University,Public,Non-profit,Spain
+2,R2SCP1050,Muhammad Waseem,Tampere University,University,Public,Non-profit,Finland
+2,R2SCP1050,Gastón Márquez,Universidad del Bío-Bío,University,Public,Non-profit,Chile
+2,R2SCP1050,Tommi Mikkonen,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2SCP1096,F. El Ayachi,Mohammed V University in Rabat,University,Public,Non-profit,Morocco
+2,R2SCP1096,M. El Baz,Mohammed V University in Rabat,University,Public,Non-profit,Morocco
+2,R2SCP1124,Ali F. Al-Ramadan,Kent State University,University,Public,Non-profit,United States
+2,R2SCP1124,Jonathan I. Maletic,Kent State University,University,Public,Non-profit,United States
+2,R2SCP1124,Joshua A. C. Behler,Kent State University,University,Public,Non-profit,United States
+2,R2SCP1124,Qiang Guan,Kent State University,University,Public,Non-profit,United States
+2,R2SCP1124,Betis Baheri,State University of New York at Canton,University,Public,Non-profit,United States
+2,R2SCP1124,Michael L. Collard,The University of Akron,University,Public,Non-profit,United States
+2,R2SCP1126,Ella Rubinshtein,Princeton University,University,Private,Non-profit,United States
+2,R2SCP1126,Jocelyn Li,Princeton University,University,Private,Non-profit,United States
+2,R2SCP1126,Margaret Martonosi,Princeton University,University,Private,Non-profit,United States
+2,R2SCP1145,Mohammad Nadeem,Aligarh Muslim University,University,Public,Non-profit,India
+2,R2SCP1145,Mahmood Niazi,King Fahd University of Petroleum and Minerals,University,Public,Non-profit,Saudi Arabia
+2,R2SCP1145,Mahmood Niazi,King Fahd University of Petroleum and Minerals,University,Public,Non-profit,Saudi Arabia
+2,R2SCP1145,Mohammad Shameem,King Fahd University of Petroleum and Minerals,University,Public,Non-profit,Saudi Arabia
+2,R2SCP1145,Sajjad Mahmood,King Fahd University of Petroleum and Minerals,University,Public,Non-profit,Saudi Arabia
+2,R2SCP1145,Sajjad Mahmood,King Fahd University of Petroleum and Minerals,University,Public,Non-profit,Saudi Arabia
+2,R2SCP1145,Ankur Kumar,Mangalayatan University,University,Private,Non-profit,India
+2,R2SCP1197,Lizhi Cai,East China University of Science and Technology,University,Public,Non-profit,China
+2,R2SCP1197,Wuxu Wang,East China University of Science and Technology,University,Public,Non-profit,China
+2,R2SCP1197,Xuan Mao,East China University of Science and Technology,University,Public,Non-profit,China
+2,R2SCP1230,Maria Teresa Baldassarre,University of Bari Aldo Moro,University,Public,Non-profit,Italy
+2,R2SCP1230,Ana Díaz-Muñoz,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+2,R2SCP1230,José A. Cruz-Lemus,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+2,R2SCP1230,Mario Piattini,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+2,R2SCP1230,Moisés Rodríguez,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+2,R2SCP170,Nils Quetschlich,Technical University of Munich,University,Public,Non-profit,Germany
+2,R2SCP170,Olivia Di Matteo,The University of British Columbia,University,Public,Non-profit,Canada
+2,R2SCP240,Boshuai Ye,Aalto University,University,Public,Non-profit,Finland
+2,R2SCP240,Boshuai Ye,University of Oulu,University,Public,Non-profit,Finland
+2,R2SCP28,Beibei Yin,Beihang University,University,Public,Non-profit,China
+2,R2SCP28,Kai-Yuan Cai,Beihang University,University,Public,Non-profit,China
+2,R2SCP28,Linzhi Huang,Beihang University,University,Public,Non-profit,China
+2,R2SCP28,Yuechen Li,Beihang University,University,Public,Non-profit,China
+2,R2SCP28,Hanyu Pei,University of Science and Technology Beijing,University,Public,Non-profit,China
+2,R2SCP376,Mario Piattini,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+2,R2SCP376,Ricardo Pérez-Castillo,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+2,R2SCP376,Samuel Sepúlveda,University of La Frontera,University,Public,Non-profit,Chile
+2,R2SCP420,Mahee Gamage,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2SCP420,Otso Kinanen,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2SCP420,Vlad Stirbu,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2SCP426,Shaukat Ali,Oslo Metropolitan University,University,Public,Non-profit,Norway
+2,R2SCP450,José A. Cruz-Lemus,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+2,R2SCP450,Mario Piattini,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+2,R2SCP450,Michal Baczyk,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+2,R2SCP450,Miriam Fernández-Osuna,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+2,R2SCP450,Ricardo Pérez-Castillo,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+2,R2SCP53,Dae-Kyoo Kim,Oakland University,University,Public,Non-profit,United States
+2,R2SCP541,Jong-Chan Kim,Sunchon National University,University,Public,Non-profit,Republic of Korea
+2,R2SCP541,Su-Chang Lim,Sunchon National University,University,Public,Non-profit,Republic of Korea
+2,R2SCP84,Mahmoud Ahmed,Arab Open University,University,Private,Non-profit,Bahrain
+2,R2SCP84,Nguyen Phi,Dong Nai Technology University,University,Private,Non-profit,Vietnam
+2,R2SCP84,Islam Zada,International Islamic University Islamabad,University,Public,Non-profit,Pakistan
+2,R2SCP84,Siwar Rekik,Prince Sultan University,University,Private,Non-profit,Saudi Arabia
+2,R2SCP84,Hessa Alfraihi,Princess Nourah Bint Abdulrahman University,University,Public,Non-profit,Saudi Arabia
+2,R2SCP84,Abdullah Alshahrani,University of Jeddah,University,Public,Non-profit,Saudi Arabia
+2,R2SCP84,Sara Shahzad,University of Peshawar,University,Public,Non-profit,Pakistan
+2,R2SCP841,Marcus Edwards,The University of British Columbia,University,Public,Non-profit,Canada
+2,R2SCP841,Olivia Di Matteo,The University of British Columbia,University,Public,Non-profit,Canada
+2,R2SCP841,Santiago Núñez-Corrales,University of Illinois Urbana-Champaign,University,Public,Non-profit,United States
+2,R2SCP841,Vlad Stirbu,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2SCP841,Edoardo Giusto,University of Naples Federico II,University,Public,Non-profit,Italy
+2,R2SCP843,Elena R. Henderson,Southern Methodist University,University,Private,Non-profit,United States
+2,R2SCP843,Jessie M. Henderson,Southern Methodist University,University,Private,Non-profit,United States
+2,R2SCP843,Joshua Ange,Southern Methodist University,University,Private,Non-profit,United States
+2,R2SCP843,Mitchell A. Thornton,Southern Methodist University,University,Private,Non-profit,United States
+2,R2SCP865,Anurudh Peduri,Ruhr University Bochum,University,Public,Non-profit,Germany
+2,R2SCP865,Michael Walter,Ruhr University Bochum,University,Public,Non-profit,Germany
+2,R2SCP880,Aamna Aamir,Toronto Metropolitan University,University,Public,Non-profit,Canada
+2,R2SCP880,Andriy Miranskyy,Toronto Metropolitan University,University,Public,Non-profit,Canada
+2,R2SCP880,Chen Ding,Toronto Metropolitan University,University,Public,Non-profit,Canada
+2,R2SCP880,Kiana Kheiri,Toronto Metropolitan University,University,Public,Non-profit,Canada
+2,R2SCP889,Stefano Lambiase,Aalborg University Copenhagen,University,Public,Non-profit,Denmark
+2,R2SCP889,Andrea De Lucia,University of Salerno,University,Public,Non-profit,Italy
+2,R2SCP999,Julian Fuchs,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2SCP999,Jussi P.P. Jokinen,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2SCP999,Majid Haghparast,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2SCP999,Ronja Heikkinen,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2SCP999,Samuel Ovaskainen,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2SCP999,Tommi Mikkonen,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2SCP999,Julian Fuchs,University of Potsdam,University,Public,Non-profit,Germany
+2,R2WOS1121,Ga San Jhun,Chung-Ang University,University,Private,Non-profit,Republic of Korea
+2,R2WOS1121,Hyun Jun Yook,Chung-Ang University,University,Private,Non-profit,Republic of Korea
+2,R2WOS1121,Jae Hyun Cho,Chung-Ang University,University,Private,Non-profit,Republic of Korea
+2,R2WOS1121,Youn Kyu Lee,Chung-Ang University,University,Private,Non-profit,Republic of Korea
+2,R2WOS1121,Joongheon Kim,Korea University,University,Private,Non-profit,Republic of Korea
+2,R2WOS1121,Soohyun Park,Sookmyung Women’s University,University,Private,Non-profit,Republic of Korea
+2,R2WOS1184,Juan M. Murillo,University of Extremadura,University,Public,Non-profit,Spain
+2,R2WOS1184,Andrés D. Muñoz-Moller,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2WOS1184,Otso Kinanen,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2WOS1184,Tommi Mikkonen,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2WOS1184,Vlad Stirbu,University of Jyväskylä,University,Public,Non-profit,Finland
+2,R2WOS1204,Luis Jiménez-Navajas,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+2,R2WOS1204,Mario Piattini,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+2,R2WOS1204,Ricardo Pérez-Castillo,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+2,R2WOS871,Bhawna Jain,Delhi Technological University,University,Public,Non-profit,India
+2,R2WOS871,Ruchika Malhotra,Delhi Technological University,University,Public,Non-profit,India
+2,R2WOS871,Marouane Kessentini,Grand Valley State University,University,Public,Non-profit,United States
+2,R2WOS871,Bhawna Jain,Indira Gandhi Delhi Technical University for Women,University,Public,Non-profit,India
+2,R2WOS896,Eñaut Mendiluze Usandizaga,Oslo Metropolitan University,University,Public,Non-profit,Norway
+2,R2WOS896,Shaukat Ali,Oslo Metropolitan University,University,Public,Non-profit,Norway
+1,ACM0007,Tao Yue,Beihang University,University,Public,Non-profit,China
+1,ACM0007,Manuel Wimmer,Johannes Kepler University Linz,University,Public,Non-profit,Spain
+1,ACM0007,Jianjun Zhao,Kyushu University,University,Public,Non-profit,Japan
+1,ACM0007,Andriy Miranskyy,Toronto Metropolitan University,University,Public,Non-profit,Canada
+1,ACM0007,Ignacio García-Rodríguez,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,ACM0007,Mario Piattini,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,ACM0007,Ricardo Pérez-Castillo,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,ACM0007,Enrique Moguel,University of Extremadura,University,Public,Non-profit,Spain
+1,ACM0007,Jose Garcia-Alonso,University of Extremadura,University,Public,Non-profit,Spain
+1,ACM0007,Juan M. Murillo,University of Extremadura,University,Public,Non-profit,Spain
+1,ACM0007,Antonio Brogi,University of Pisa,University,Public,Non-profit,Italy
+1,ACM0007,Antonio Ruiz-Cortés,University of Seville,University,Public,Non-profit,Spain
+1,ACM0007,Frank Leymann,University of Stuttgart,University,Public,Non-profit,Germany
+1,ACM0007,Johanna Barzen,University of Stuttgart,University,Public,Non-profit,Germany
+1,SCP0001,Aakash Ahmad,University of Hail,University,Public,Non-profit,Saudi Arabia
+1,SCP0001,Tommi Mikkonen,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0001,Arif Ali Khan,University of Oulu,University,Public,Non-profit,Finland
+1,SCP0001,Mahdi Fahmideh,University of Southern Queensland,University,Public,Non-profit,Australia
+1,SCP0001,Muhammad Waseem,Wuhan University,University,Public,Non-profit,China
+1,SCP0002,Mario Piattini,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0005,Majid Haghparast,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0005,Muhammad Waseem,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0005,Niraj Dayama,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0005,Tommi Mikkonen,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0005,Vlad Stirbu,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0011,Shaukat Ali,Oslo Metropolitan University,University,Public,Non-profit,Norway
+1,SCP0012,Teiko Heinosaari,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0012,Tommi Mikkonen,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0012,Vlad Stirbu,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0012,Kimmo Halunen,University of Oulu,University,Public,Non-profit,Finland
+1,SCP0016,Matteo Paltenghi,University of Stuttgart,University,Public,Non-profit,Germany
+1,SCP0016,Michael Pradel,University of Stuttgart,University,Public,Non-profit,Germany
+1,SCP0019,Foutse Khomh,Polytechnic School of Montreal,University,Public,Non-profit,Canada
+1,SCP0019,Le An,Polytechnic School of Montreal,University,Public,Non-profit,Canada
+1,SCP0019,Mohammad Mehdi Morovati,Polytechnic School of Montreal,University,Public,Non-profit,Canada
+1,SCP0019,Moses Openja,Polytechnic School of Montreal,University,Public,Non-profit,Canada
+1,SCP0019,Mouna Abidi,Polytechnic School of Montreal,University,Public,Non-profit,Canada
+1,SCP0021,Saima Rafi,Edinburgh Napier University,University,Public,Non-profit,United Kingdom
+1,SCP0021,Sajjad Mahmood,Fahd University of Petroleum and Minerals,University,Public,Non-profit,Saudi Arabia
+1,SCP0021,Muhammad Azeem Akbar,Lappeenranta-Lahti University of Technology,University,Public,Non-profit,Finland
+1,SCP0021,Arif Ali Khan,University of Oulu,University,Public,Non-profit,Finland
+1,SCP0022,Luis Jiménez-Navajas,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0022,Mario Piattini,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0022,Ricardo Pérez-Castillo,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0024,Mohammad Shameem,Koneru Lakshmaiah Education Foundation,University,Private,Non-profit,India
+1,SCP0024,Aakash Ahmad,Lancaster University Leipzig,University,Private,Non-profit,Germany
+1,SCP0024,Muhammad Azeem Akbar,Lappeenranta-Lahti University of Technology,University,Public,Non-profit,Finland
+1,SCP0024,Muhammad Waseem,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0024,Tommi Mikkonen,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0024,Arif Ali Khan,University of Oulu,University,Public,Non-profit,Finland
+1,SCP0024,Mahdi Fahmideh,University of Southern Queensland,University,Public,Non-profit,Australia
+1,SCP0026,Mario Piattini,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0027,Foutse Khomh,Polytechnique Montréal,University,Public,Non-profit,Canada
+1,SCP0027,Heng Li,Polytechnique Montréal,University,Public,Non-profit,Canada
+1,SCP0027,Mohamed Raed El Aoun,Polytechnique Montréal,University,Public,Non-profit,Canada
+1,SCP0027,Moses Openja,Polytechnique Montréal,University,Public,Non-profit,Canada
+1,SCP0031,David Valencia,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0031,Enrique Moguel,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0031,Javier Berrocal,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0031,Javier Rojo,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0031,Jose Garcia-Alonso,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0031,Juan M. Murillo,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0032,Ana Díaz Muñoz,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0032,Jesús Ramón Oviedo Lama,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0032,Moisés Rodríguez Monje,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0032,Danel Arias,University of Deusto,University,Private,Non-profit,Spain
+1,SCP0032,Erik B. Terres-Escudero,University of Deusto,University,Private,Non-profit,Spain
+1,SCP0032,Pablo García Bringas,University of Deusto,University,Private,Non-profit,Spain
+1,SCP0032,Enrique Moguel,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0032,Jose Garcia-Alonso,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0032,Juan M. Murillo,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0033,Juan Bernabé-Moreno,University of Granada,University,Public,Non-profit,Spain
+1,SCP0035,Iftekhar Ahmed  ,University of California,University,Public,Non-profit,United States
+1,SCP0035,Qihong Chen,University of California,University,Public,Non-profit,United States
+1,SCP0035,André Souto,University of Lisbon,University,Public,Non-profit,Portugal
+1,SCP0035,Jose Campos,University of Lisbon,University,Public,Non-profit,Portugal
+1,SCP0035,Ruben Camara,University of Lisbon,University,Public,Non-profit,Portugal
+1,SCP0035,Jose Campos,University of Porto,University,Public,Non-profit,Portugal
+1,SCP0038,Luis S. Barbosa,Universidade do Minho,University,Public,Non-profit,Portugal
+1,SCP0038,Luis S. Barbosa,UNU-EGOV - United Nations University,University,Public-private,Non-profit,Portugal
+1,SCP0039,Enrique Moguel,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0039,Javier Berrocal,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0039,Jose García-Alonso,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0039,Juan M. Murillo,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0043,Enrique Moguel,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0043,Jose Garcia-Alonso,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0043,Juan M. Murillo,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0043,Majid Haghparast,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0043,Tommi Mikkonen,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0044,Jianjun Zhao,Kyushu University,University,Public,Non-profit,Japan
+1,SCP0044,Tiancheng Jin,Kyushu University,University,Public,Non-profit,Japan
+1,SCP0046,Jukka K. Nurminen,University of Helsinki,University,Public,Non-profit,Finland
+1,SCP0046,Majid Haghparast,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0046,Tommi Mikkonen,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0046,Vlad Stirbu,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0047,Luis Jiménez-Navajas,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0047,Mario Piattini,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0047,Ricardo Pérez-Castillo,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0051,Javier Verduro,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0051,Mario Piattini,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0051,Moises Rodriguez Monje,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0052,Mario Piattini,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0052,Michal Baczyk,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0052,Ricardo Pérez-Castillo,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0053,Vaston Costa,Federal University of Catalão,University,Public,Non-profit,Brazil
+1,SCP0053,Edward Hermann Haeusler,Pontifical Catholic University of Rio de Janeiro,University,Private,Non-profit,Brazil
+1,SCP0053,Lorenzo Saraiva,Pontifical Catholic University of Rio de Janeiro,University,Private,Non-profit,Brazil
+1,SCP0053,Marcos Kalinowski,Pontifical Catholic University of Rio de Janeiro,University,Private,Non-profit,Brazil
+1,SCP0054,Ignacio García-Rodríguez,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0054,Macario Polo Usaola,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0054,Manuel Ángel Serrano,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0054,Mario Piattini,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0056,Jose Campos,University of Lisbon,University,Public,Non-profit,Portugal
+1,SCP0056,Daniel Fortunato,University of Porto,University,Public,Non-profit,Portugal
+1,SCP0056,Rui Abreu,University of Porto,University,Public,Non-profit,Portugal
+1,SCP0057,Guido Peterssen  ,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0057,Ricardo Pérez-Castillo,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0058,Aritra Sarkar,Delft University of Technology,University,Public,Non-profit,Netherlands
+1,SCP0061,Márcio Ribeiro,Federal University of Alagoas,University,Public,Non-profit,Brazil
+1,SCP0061,Carla Bezerra,Federal University of Ceará,University,Public,Non-profit,Brazil
+1,SCP0061,Ivan Machado,Universidade Federal da Bahia,University,Public,Non-profit,Brazil
+1,SCP0061,Larissa Bastos,Universidade Federal da Bahia,University,Public,Non-profit,Brazil
+1,SCP0061,Tássio Virgínio,Universidade Federal da Bahia,University,Public,Non-profit,Brazil
+1,SCP0063,Ana Díaz Muñoz,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0063,Ignacio García-Rodríguez,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0063,Moises Rodriguez Monje,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0063,Enrique Moguel,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0063,Jaime Alvarado-Valiente,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0063,Javier Romero-Álvarez,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0063,Jose Garcia-Alonso,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0063,Juan M. Murillo,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0064,Jianjun Zhao,Kyushu University,University,Public,Non-profit,Japan
+1,SCP0065,Jose García-Alonso,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0065,Juan M. Murillo,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0065,Antonio Brogi,University of Pisa,University,Public,Non-profit,Italy
+1,SCP0065,Giuseppe Bisicchia,University of Pisa,University,Public,Non-profit,Italy
+1,SCP0066,Mingsheng Ying,Tsinghua University,University,Public,Non-profit,China
+1,SCP0066,Nengkun Yu,Tsinghua University,University,Public,Non-profit,China
+1,SCP0066,Runyao Duan,Tsinghua University,University,Public,Non-profit,China
+1,SCP0066,Yuan Feng,Tsinghua University,University,Public,Non-profit,China
+1,SCP0066,Mingsheng Ying,University of Technology Sydney,University,Public,Non-profit,Australia
+1,SCP0066,Nengkun Yu,University of Technology Sydney,University,Public,Non-profit,Australia
+1,SCP0066,Runyao Duan,University of Technology Sydney,University,Public,Non-profit,Australia
+1,SCP0066,Yuan Feng,University of Technology Sydney,University,Public,Non-profit,Australia
+1,SCP0067,Felix Gemeinhardt,Johannes Kepler University Linz,University,Public,Non-profit,Austria
+1,SCP0067,Manuel Wimmer,Johannes Kepler University Linz,University,Public,Non-profit,Austria
+1,SCP0067,Martin Eisenberg,Johannes Kepler University Linz,University,Public,Non-profit,Austria
+1,SCP0067,Stefan Klikovits,Johannes Kepler University Linz,University,Public,Non-profit,Austria
+1,SCP0068,Damian S. Steiger,ETH Zurich,University,Public,Non-profit,Switzerland
+1,SCP0068,Matthias Troyer,ETH Zurich,University,Public,Non-profit,Switzerland
+1,SCP0068,Thomas Häner,ETH Zurich,University,Public,Non-profit,Switzerland
+1,SCP0069,José Campos  ,University of Lisbon,University,Public,Non-profit,Portugal
+1,SCP0069,Daniel Fortunato  ,University of Porto,University,Public,Non-profit,Portugal
+1,SCP0069,José Campos  ,University of Porto,University,Public,Non-profit,Portugal
+1,SCP0069,Rui Abreu  ,University of Porto,University,Public,Non-profit,Portugal
+1,SCP0072,Felix Gemeinhardt,Johannes Kepler University Linz,University,Public,Non-profit,Austria
+1,SCP0072,Manuel Wimmer,Johannes Kepler University Linz,University,Public,Non-profit,Austria
+1,SCP0072,Stefan Klikovits,Johannes Kepler University Linz,University,Public,Non-profit,Austria
+1,SCP0074,Paola Spoletini,Kennesaw State University,University,Public,Non-profit,United States
+1,SCP0076,Manuel Serrano,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0076,Mario Piattini,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0076,Ricardo Perez-Castillo,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0082,Andrea De Lucia,University of Salerno,University,Public,Non-profit,Italy
+1,SCP0082,Dario Di Nucci,University of Salerno,University,Public,Non-profit,Italy
+1,SCP0082,Fabio Palomba,University of Salerno,University,Public,Non-profit,Italy
+1,SCP0082,Manuel De Stefano,University of Salerno,University,Public,Non-profit,Italy
+1,SCP0084,Felix Greiwe,Technical University of Applied Sciences Regensburg,University,Public,Non-profit,Germany
+1,SCP0084,Tom Kruger,Technical University of Applied Sciences Regensburg,University,Public,Non-profit,Germany
+1,SCP0084,Wolfgang Mauerer,Technical University of Applied Sciences Regensburg,University,Public,Non-profit,Germany
+1,SCP0086,Hoa T. Nguyen,University of Melbourne,University,Public,Non-profit,Australia
+1,SCP0086,Muhammad Usman,University of Melbourne,University,Public,Non-profit,Australia
+1,SCP0086,Rajkumar Buyya  ,University of Melbourne,University,Public,Non-profit,Australia
+1,SCP0088,Saima Rafi,Edinburgh Napier University,University,Public,Non-profit,United Kingdom
+1,SCP0088,Muhammad Azeem Akbar,Lappeenranta-Lahti University of Technology,University,Public,Non-profit,Finland
+1,SCP0088,Arif Ali Khan,University of Oulu,University,Public,Non-profit,Finland
+1,SCP0089,Mahsa Radnejad,Islamic Azad University,University,Private,Non-profit,Iran
+1,SCP0089,Andriy Miranskyy,Toronto Metropolitan University,University,Public,Non-profit,Canada
+1,SCP0089,Lei Zhang,University of Maryland,University,Public,Non-profit,United States
+1,SCP0092,Mario Piattini,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0092,Ricardo Pérez-Castillo,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0093,Hassan Soubra,École Centrale d'électronique,University,Private,Non-profit,France
+1,SCP0094,Lianyong Qi,China University of Petroleum,University,Public,Non-profit,China
+1,SCP0094,Muhammad Bilal,Hankuk University of Foreign Studies,University,Private,Non-profit,Republic of Korea
+1,SCP0094,Xiaolong Xu,Nanjing University of Information Science and Technology,University,Public,Non-profit,China
+1,SCP0094,Xudong Zhao,Nanjing University of Information Science and Technology,University,Public,Non-profit,China
+1,SCP0094,Huaizhen Kou,Nanjing University of Science and Technology,University,Public,Non-profit,China
+1,SCP0094,Xiaoyu Xia,RMIT University,University,Public,Non-profit,Australia
+1,SCP0094,Wenwen Gong,Tsinghua University,University,Public,Non-profit,China
+1,SCP0096,Dae-Kyoo Kim,Oakland University,University,Public,Non-profit,United States
+1,SCP0103,Andriy Miranskyy,Ryerson University,University,Public,Non-profit,Canada
+1,SCP0103,Lei Zhang,Ryerson University,University,Public,Non-profit,Canada
+1,SCP0104,Diego Alonso,Polytechnic University of Cartagena,University,Public,Non-profit,Spain
+1,SCP0104,Francisco Sánchez-Rubio,Polytechnic University of Cartagena,University,Public,Non-profit,Spain
+1,SCP0104,Pedro Sánchez,Polytechnic University of Cartagena,University,Public,Non-profit,Spain
+1,SCP0106,Mark Fingerhuth  ,University of KwaZulu-Natal,University,Public,Non-profit,South Africa
+1,SCP0106,Peter Wittek  ,University of Toronto,University,Public,Non-profit,Canada
+1,SCP0107,Boshuai Ye,Aalto University,University,Public,Non-profit,Finland
+1,SCP0107,Arif Ali Khan,University of Oulu,University,Public,Non-profit,Finland
+1,SCP0107,Davide Taibi,University of Oulu,University,Public,Non-profit,Finland
+1,SCP0107,Maryam Tavassoli Sabzevari,University of Oulu,University,Public,Non-profit,Finland
+1,SCP0107,Davide Falessi,University of Rome Tor Vergata,University,Public,Non-profit,Italy
+1,SCP0107,Matteo Esposito,University of Rome Tor Vergata,University,Public,Non-profit,Italy
+1,SCP0108,Fabiano Pecorelli,Pegaso Digital University,University,Private,Profit,Italy
+1,SCP0108,Andrea De Lucia,University of Salerno,University,Public,Non-profit,Italy
+1,SCP0108,Antonio Trovato,University of Salerno,University,Public,Non-profit,Italy
+1,SCP0108,Dario Di Nucci,University of Salerno,University,Public,Non-profit,Italy
+1,SCP0108,Fabiano Pecorelli,University of Salerno,University,Public,Non-profit,Italy
+1,SCP0108,Manuel De Stefano,University of Salerno,University,Public,Non-profit,Italy
+1,SCP0111,Shaukat Ali,Oslo Metropolitan University,University,Public,Non-profit,Norway
+1,SCP0111,Asmar Muqeet,University of Oslo,University,Public,Non-profit,Norway
+1,SCP0112,Byung-Soo Choi,Pukyong National University,University,Public,Non-profit,Republic of Korea
+1,SCP0112,Duwon Lee,Pukyong National University,University,Public,Non-profit,Republic of Korea
+1,SCP0112,Jaehyeok Lee,Pukyong National University,University,Public,Non-profit,Republic of Korea
+1,SCP0112,Kanghyeon Kim,Pukyong National University,University,Public,Non-profit,Republic of Korea
+1,SCP0112,Yong Kwon,Pukyong National University,University,Public,Non-profit,Republic of Korea
+1,SCP0115,Fabiano Pecorelli,Tampere University,University,Public,Non-profit,Finland
+1,SCP0115,Andrea De Lucia,University of Salerno,University,Public,Non-profit,Italy
+1,SCP0115,Dario Di Nucci,University of Salerno,University,Public,Non-profit,Italy
+1,SCP0115,Fabio Palomba,University of Salerno,University,Public,Non-profit,Italy
+1,SCP0115,Manuel De Stefano,University of Salerno,University,Public,Non-profit,Italy
+1,SCP0116,Mahmood Niazi,King Fahd University of Petroleum and Minerals,University,Public,Non-profit,Saudi Arabia
+1,SCP0116,Aakash Ahmad,Lancaster University Leipzig,University,Private,Non-profit,Germany
+1,SCP0116,Tommi Mikkonen,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0116,Arif Ali Khan,University of Oulu,University,Public,Non-profit,Finland
+1,SCP0116,Mahdi Fahmideh,University of Southern Queensland,University,Public,Non-profit,Australia
+1,SCP0116,Muhammad Waseem,Wuhan University,University,Public,Non-profit,China
+1,SCP0121,André Souto,University of Lisbon,University,Public,Non-profit,Portugal
+1,SCP0121,José Campos,University of Lisbon,University,Public,Non-profit,Portugal
+1,SCP0122,Zengyang Li,Central China Normal University,University,Public,Non-profit,China
+1,SCP0122,Aakash Ahmad,Lancaster University Leipzig,University,Private,Non-profit,Germany
+1,SCP0122,Amjed Tahir,Massey University,University,Public,Non-profit,New Zealand
+1,SCP0122,Muhammad Waseem,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0122,Beiqi Zhang,Wuhan University,University,Public,Non-profit,China
+1,SCP0122,Mst Shamima Aktar,Wuhan University,University,Public,Non-profit,China
+1,SCP0122,Peng Liang,Wuhan University,University,Public,Non-profit,China
+1,SCP0123,Jaime Alvarado-Valiente,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0123,Javier Romero-Alvarez,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0123,Jose Garcia-Alonso,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0128,Diego Alonso,Polytechnic University of Cartagena,University,Public,Non-profit,Spain
+1,SCP0128,Pedro Sánchez,Polytechnic University of Cartagena,University,Public,Non-profit,Spain
+1,SCP0132,Anibrata Pal,University of Bari Aldo Moro,University,Public,Non-profit,Italy
+1,SCP0132,Danilo Caivano,University of Bari Aldo Moro,University,Public,Non-profit,Italy
+1,SCP0132,Vita Santa Barletta,University of Bari Aldo Moro,University,Public,Non-profit,Italy
+1,SCP0134,Mohammad Nadeem,Aligarh Muslim University,University,Public,Non-profit,India
+1,SCP0134,Muhammad Azeem Akbar,Lappeenranta-Lahti University of Technology,University,Public,Non-profit,Finland
+1,SCP0134,Mohammad Shameem,MIT World Peace University,University,Private,Non-profit,India
+1,SCP0134,Arif Ali Khan,University of Oulu,University,Public,Non-profit,Finland
+1,SCP0136,Jianjun Zhao,Kyushu University,University,Public,Non-profit,Japan
+1,SCP0138,Manuel De Stefano,University of Salerno,University,Public,Non-profit,Italy
+1,SCP0149,Andriy Miranskyy,Toronto Metropolitan University,University,Public,Non-profit,Canada
+1,SCP0149,Lei Zhang,University of Maryland,University,Public,Non-profit,United States
+1,SCP0156,Aniket S. Dalvi,Duke University,University,Private,Non-profit,United States
+1,SCP0156,Filip Mazurek,Duke University,University,Private,Non-profit,United States
+1,SCP0156,Jacob Whitlow,Duke University,University,Private,Non-profit,United States
+1,SCP0156,Kenneth R. Brown,Duke University,University,Private,Non-profit,United States
+1,SCP0156,Leon Riesebos,Duke University,University,Private,Non-profit,United States
+1,SCP0156,Marissa D'Onofrio,Duke University,University,Private,Non-profit,United States
+1,SCP0156,Samuel Phiri,Duke University,University,Private,Non-profit,United States
+1,SCP0156,Tianyi Chen,Duke University,University,Private,Non-profit,United States
+1,SCP0156,Frank Mueller,North Carolina State University,University,Public,Non-profit,United States
+1,SCP0156,Kaustubh Badrike,North Carolina State University,University,Public,Non-profit,United States
+1,SCP0157,Andriy Miranskyy,Ryerson University,University,Public,Non-profit,Canada
+1,SCP0157,Mushahid Khan,Ryerson University,University,Public,Non-profit,Canada
+1,SCP0158,Davide Taibi,Tampere University,University,Public,Non-profit,Finland
+1,SCP0158,Andrea De Lucia,University of Salerno,University,Public,Non-profit,Italy
+1,SCP0158,Dario Di Nucci,University of Salerno,University,Public,Non-profit,Italy
+1,SCP0158,Fabio Palomba,University of Salerno,University,Public,Non-profit,Italy
+1,SCP0158,Manuel De Stefano,University of Salerno,University,Public,Non-profit,Italy
+1,SCP0161,Jianjun Zhao,Kyushu University,University,Public,Non-profit,Japan
+1,SCP0161,Lei Ma,Kyushu University,University,Public,Non-profit,Japan
+1,SCP0161,Pengzhan Zhao,Kyushu University,University,Public,Non-profit,Japan
+1,SCP0167,Adrian Cobb,Deakin University,University,Public,Non-profit,Australia
+1,SCP0167,Jean-Guy Schneider,Deakin University,University,Public,Non-profit,Australia
+1,SCP0167,Kevin Lee,Deakin University,University,Public,Non-profit,Australia
+1,SCP0172,Antonio Garmendia,Autonomous University of Madrid,University,Public,Non-profit,Spain
+1,SCP0172,Antonio Garmendia,Johannes Kepler University Linz,University,Public,Non-profit,Austria
+1,SCP0172,Felix Gemeinhardt,Johannes Kepler University Linz,University,Public,Non-profit,Austria
+1,SCP0172,Manuel Wimmer,Johannes Kepler University Linz,University,Public,Non-profit,Austria
+1,SCP0172,Robert Wille,Technical University of Munich,University,Public,Non-profit,Germany
+1,SCP0174,Simon Garhofer,University of Tübingen,University,Public,Non-profit,Germany
+1,SCP0179,Enrique Moguel,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0179,Jose Garcia-Alonso,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0179,Carlos Canal,University of Málaga,University,Public,Non-profit,Spain
+1,SCP0179,Javier Zayas Gallardo,University of Málaga,University,Public,Non-profit,Spain
+1,SCP0180,Alon Tsalik Shmilovich,The Jerusalem College of Engineering,University,Private,Non-profit,Israel
+1,SCP0180,Iaakov Exman,The Jerusalem College of Engineering,University,Private,Non-profit,Israel
+1,SCP0184,Antonio Garmendia,Johannes Kepler University Linz,University,Public,Non-profit,Austria
+1,SCP0184,Felix Gemeinhardt,Johannes Kepler University Linz,University,Public,Non-profit,Austria
+1,SCP0184,Manuel Wimmer,Johannes Kepler University Linz,University,Public,Non-profit,Austria
+1,SCP0186,Andrés D. Muñoz-Moller,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0186,Otso Kinanen,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0186,Tommi Mikkonen,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0186,Vlad Stirbu,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0190,Tommi Mikkonen,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0190,Vlad Stirbu,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0195,Diego Alvarez-Estevez,Universidade da Coruña,University,Public,Non-profit,Spain
+1,SCP0195,Eduardo Mosqueira-Rey,Universidade da Coruña,University,Public,Non-profit,Spain
+1,SCP0195,Samuel Magaz-Romero,Universidade da Coruña,University,Public,Non-profit,Spain
+1,SCP0195,Vicente Moret-Bonillo,Universidade da Coruña,University,Public,Non-profit,Spain
+1,SCP0197,Joao F. Ferreira,University of Lisbon,University,Public,Non-profit,Portugal
+1,SCP0197,Miguel Trinca,University of Lisbon,University,Public,Non-profit,Portugal
+1,SCP0197,Rui Abreu,University of Porto,University,Public,Non-profit,Portugal
+1,SCP0200,Rui Abreu,University of Porto,University,Public,Non-profit,Portugal
+1,SCP0202,Andriy Miranskyy,Ryerson University,University,Public,Non-profit,Canada
+1,SCP0202,Javad Doliskani,Ryerson University,University,Public,Non-profit,Canada
+1,SCP0202,Lei Zhang,Ryerson University,University,Public,Non-profit,Canada
+1,SCP0221,Andrew Van Horn,Duke University,University,Private,Non-profit,United States
+1,SCP0221,Brad Bondurant,Duke University,University,Private,Non-profit,United States
+1,SCP0221,Chao Fang,Duke University,University,Private,Non-profit,United States
+1,SCP0221,Jacob Whitlow,Duke University,University,Private,Non-profit,United States
+1,SCP0221,Jungsang Kim,Duke University,University,Private,Non-profit,United States
+1,SCP0221,Kenneth R. Brown,Duke University,University,Private,Non-profit,United States
+1,SCP0221,Leon Riesebos,Duke University,University,Private,Non-profit,United States
+1,SCP0221,Mark Kuzyk,Duke University,University,Private,Non-profit,United States
+1,SCP0221,Samuel Phiri,Duke University,University,Private,Non-profit,United States
+1,SCP0221,Tianyi Chen,Duke University,University,Private,Non-profit,United States
+1,SCP0221,Ye Wang,Duke University,University,Private,Non-profit,United States
+1,SCP0221,Junki Kim,Sungkyunkwan University,University,Private,Non-profit,Republic of Korea
+1,SCP0225,Ana Díaz Muñoz,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0225,Mario Gerardo Piattini Velthuis,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0225,Moisés Rodríguez Monje,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0228,Mingsheng Ying,Tsinghua University,University,Public,Non-profit,China
+1,SCP0228,Mingsheng Ying,University of Technology Sydney,University,Public,Non-profit,Australia
+1,SCP0230,Andriy Miranskyy,Toronto Metropolitan University,University,Public,Non-profit,Canada
+1,SCP0230,Lei Zhang,Toronto Metropolitan University,University,Public,Non-profit,Canada
+1,SCP0240,Jianjun Zhao,Kyushu University,University,Public,Non-profit,Japan
+1,SCP0245,Rodney Van Meter,Keio University,University,Private,Non-profit,Japan
+1,SCP0245,Sara Ayman Metwalli,Keio University,University,Private,Non-profit,Japan
+1,SCP0251,Benjamin Weder,University of Stuttgart,University,Public,Non-profit,Germany
+1,SCP0251,Frank Leymann,University of Stuttgart,University,Public,Non-profit,Germany
+1,SCP0251,Johanna Barzen,University of Stuttgart,University,Public,Non-profit,Germany
+1,SCP0251,Michael Zimmermann,University of Stuttgart,University,Public,Non-profit,Germany
+1,SCP0256,Luis Jiménez-Navajas,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0256,Mario Piattini,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0256,Ricardo Pérez-Castillo,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0259,Alfred V. Aho,Columbia University,University,Private,Non-profit,United States
+1,SCP0259,Krysta M. Svore,Columbia University,University,Private,Non-profit,United States
+1,SCP0259,Andrew W. Cross,Massachusetts Institute of Technology,University,Private,Non-profit,United States
+1,SCP0259,Isaac Chuang,Massachusetts Institute of Technology,University,Private,Non-profit,United States
+1,SCP0259,Igor L. Markov,University of Michigan,University,Public,Non-profit,United States
+1,SCP0260,Paul Schnabl,University of Technology Graz,University,Public,Non-profit,Austria
+1,SCP0261,Luis Jiménez-Navajas,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0261,Mario Piattini,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0261,Ricardo Pérez-Castillo,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0264,Juan M. Murillo,University of Seville,University,Public,Non-profit,Spain
+1,SCP0272,A.G. Reshetnikov,Dubna University,University,Public,Non-profit,Russia
+1,SCP0272,S.V. Ulyanov,Dubna University,University,Public,Non-profit,Russia
+1,SCP0272,V.V. Korenkov,Dubna University,University,Public,Non-profit,Russia
+1,SCP0279,Mahmood Niazi,King Fahd University of Petroleum and Minerals,University,Public,Non-profit,Saudi Arabia
+1,SCP0279,Muhammad Azeem Akbar,Lappeenranta-Lahti University of Technology,University,Public,Non-profit,Finland
+1,SCP0279,Shoayee Dlaim Alotaibi,University of Hail,University,Public,Non-profit,Saudi Arabia
+1,SCP0279,Arif Ali Khan,University of Oulu,University,Public,Non-profit,Finland
+1,SCP0279,Mohammed Naif Alatawi,University of Tabuk,University,Public,Non-profit,Saudi Arabia
+1,SCP0282,Dhirendra Pandey,Babasaheb Bhimrao Ambedkar University,University,Public,Non-profit,India
+1,SCP0282,Md Tarique Jamal Ansari,Babasaheb Bhimrao Ambedkar University,University,Public,Non-profit,India
+1,SCP0282,Mohd Nadeem,Babasaheb Bhimrao Ambedkar University,University,Public,Non-profit,India
+1,SCP0282,Raees Ahmad Khan,Babasaheb Bhimrao Ambedkar University,University,Public,Non-profit,India
+1,SCP0282,Rajeev Kumar,Babu Banarasi Das University,University,Private,Non-profit,India
+1,SCP0282,Abdullah Alharbi,Taif University,University,Public,Non-profit,Saudi Arabia
+1,SCP0282,Hashem Alyami,Taif University,University,Public,Non-profit,Saudi Arabia
+1,SCP0282,Wael Alosaimi,Taif University,University,Public,Non-profit,Saudi Arabia
+1,SCP0284,A.B. Mutiara,Gunadarma University,University,Private,Non-profit,Indonesia
+1,SCP0284,J.S.K. Karamoy,Gunadarma University,University,Private,Non-profit,Indonesia
+1,SCP0284,R. Refianti,Gunadarma University,University,Private,Non-profit,Indonesia
+1,SCP0287,Mario Piattini,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0287,Ricardo Pérez-Castillo,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,SCP0287,Samuel Sepúlveda,University of La Frontera,University,Public,Non-profit,Chile
+1,SCP0300,Alberto Krone-Martins,University of California,University,Public,Non-profit,United States
+1,SCP0300,Cristina V. Lopes,University of California,University,Public,Non-profit,United States
+1,SCP0300,Samyak Jhaveri,University of California,University,Public,Non-profit,United States
+1,SCP0307,QianQian Qu,Shanghai Polytechnic University,University,Public,Non-profit,China
+1,SCP0307,Le Luo,Sun Yat-Sen University,University,Public,Non-profit,China
+1,SCP0310,Lodovica Marchesi,University of Cagliari,University,Public,Non-profit,Italy
+1,SCP0310,Michele Marchesi,University of Cagliari,University,Public,Non-profit,Italy
+1,SCP0310,Roberto Tonelli,University of Cagliari,University,Public,Non-profit,Italy
+1,SCP0326,Manfred Hauswirth,Technische Universität Berlin,University,Public,Non-profit,Germany
+1,SCP0342,Shaukat Ali,Oslo Metropolitan University,University,Public,Non-profit,Norway
+1,SCP0342,Asmar Muqeet,University of Oslo,University,Public,Non-profit,Norway
+1,SCP0342,Xinyi Wang,University of Oslo,University,Public,Non-profit,Norway
+1,SCP0343,Julian Hans,University of Lübeck,University,Public,Non-profit,Germany
+1,SCP0343,Sven Groppe,University of Lübeck,University,Public,Non-profit,Germany
+1,SCP0347,Liudmyla V. Lehka,Krivyi Rih State Pedagogical University,University,Public,Non-profit,Ukraine
+1,SCP0347,Svitlana V. Shokaliuk,Krivyi Rih State Pedagogical University,University,Public,Non-profit,Ukraine
+1,SCP0350,Enrique Moguel,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0350,Jaime Alvarado-Valiente,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0350,Javier Romero-Álvarez,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0350,José Garcia-Alonso,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0350,Juan M. Murillo,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0353,Evangelia Girousi,University of Macedonia,University,Public,Non-profit,Greece
+1,SCP0353,Maria Orfanaki,University of Macedonia,University,Public,Non-profit,Greece
+1,SCP0353,Stavros Souravlas,University of Macedonia,University,Public,Non-profit,Greece
+1,SCP0355,Álvaro M. Aparicio-Morales,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0355,Javier Berrocal,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0355,Jose Garcia-Alonso,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0355,Juan M. Murillo,University of Extremadura,University,Public,Non-profit,Spain
+1,SCP0355,Majid Haghparast,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0355,Niko Mäkitalo,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0355,Tommi Mikkonen,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0355,Vlad Stirbu,University of Jyväskylä,University,Public,Non-profit,Finland
+1,SCP0357,Alexey Nechaev,The Jerusalem College of Engineering,University,Private,Non-profit,Israel
+1,SCP0357,Iaakov Exman,The Jerusalem College of Engineering,University,Private,Non-profit,Israel
+1,SCP0369,Alfred Lako,Polytechnic University of Tirana,University,Public,Non-profit,Albania
+1,SCP0369,Anibrata Pal,University of Bari Aldo Moro,University,Public,Non-profit,Italy
+1,SCP0369,Danilo Caivano,University of Bari Aldo Moro,University,Public,Non-profit,Italy
+1,SCP0369,Vita Santa Barletta,University of Bari Aldo Moro,University,Public,Non-profit,Italy
+1,SCP0374,Matthias Riebisch,Universität Hamburg,University,Public,Non-profit,Germany
+1,SCP0374,Tom Weber,Universität Hamburg,University,Public,Non-profit,Germany
+1,SCP0387,Thijs Wendrich,Leibniz University Hannover,University,Public,Non-profit,Germany
+1,SCP0387,Hauke Müntinga,University of Bremen,University,Public,Non-profit,Germany
+1,SCP0390,Alessandro Pagano,University of Bari,University,Public,Non-profit,Italy
+1,SCP0390,Antonio Piccinno,University of Bari,University,Public,Non-profit,Italy
+1,SCP0390,Fabio Cassano,University of Bari,University,Public,Non-profit,Italy
+1,SCP0390,Mirko De Vincentiis,University of Bari,University,Public,Non-profit,Italy
+1,SCP0394,Ahmad Mansrah,Al-Zaytoonah University of Jordan,University,Private,Non-profit,Jordan
+1,SCP0394,Ismael Jannoud,Al-Zaytoonah University of Jordan,University,Private,Non-profit,Jordan
+1,SCP0394,Mohammad Alia,Al-Zaytoonah University of Jordan,University,Private,Non-profit,Jordan
+1,SCP0394,Mohammad Masoud,Al-Zaytoonah University of Jordan,University,Private,Non-profit,Jordan
+1,SCP0394,Yousef Jaradat,Al-Zaytoonah University of Jordan,University,Private,Non-profit,Jordan
+1,SCP0394,Omar Alheyasat,AlBalqa’ Applied University,University,Public,Non-profit,Jordan
+1,SCP0398,Kartik Singhal,University of Chicago,University,Private,Non-profit,United States
+1,SCP0398,Robert Rand,University of Chicago,University,Private,Non-profit,United States
+1,SCP0398,Kesha Hietala,University of Maryland,University,Public,Non-profit,United States
+1,SCP0414,Anya Tafliovich,University of Toronto,University,Public,Non-profit,Canada
+1,SCP0414,Eric C. R. Hehner,University of Toronto,University,Public,Non-profit,Canada
+1,SCP0421,Ahmed Younes,Alexandria University,University,Public,Non-profit,Egypt
+1,SCP0421,Hager Hussein,Arab Academy for Science and Technology,University,Public-private,Non-profit,Egypt
+1,SCP0421,Walid Abdelmoez,Arab Academy for Science and Technology,University,Public-private,Non-profit,Egypt
+1,SCP0421,Ahmed Younes,University of Birmingham,University,Public,Non-profit,United Kingdom
+1,SCP0482,Christian B. Mendl,University of Munich,University,Public,Non-profit,Germany
+1,SCP0485,Xiangdong Li,City University of New York,University,Public,Non-profit,United States
+1,SCP0485,Fangmin Song,Nanjing University,University,Public,Non-profit,China
+1,SCP0485,Fangmin Song,Nanjing University,University,Public,Non-profit,China
+1,SCP0485,Nan Wu,Nanjing University,University,Public,Non-profit,China
+1,SCP0494,Adrian Winckles,Anglia Ruskin University,University,Public,Non-profit,United Kingdom
+1,SCP0494,Domenico Vicinanza,Anglia Ruskin University,University,Public,Non-profit,United Kingdom
+1,SCP0494,George Wilson,Anglia Ruskin University,University,Public,Non-profit,United Kingdom
+1,SCP0494,James Fitzjohn,Anglia Ruskin University,University,Public,Non-profit,United Kingdom
+1,SCP0525,Qiaoyan Wen,Beijing University of Posts and Telecommunications,University,Public,Non-profit,China
+1,SCP0525,Xiufeng Zhang,Beijing University of Posts and Telecommunications,University,Public,Non-profit,China
+1,SCP0609,Shaukat Ali,Oslo Metropolitan University,University,Public,Non-profit,Norway
+1,SCP0609,Xinyi Wang,University of Oslo,University,Public,Non-profit,Norway
+1,SCP0656,Anibrata Pal,University of Bari Aldo Moro,University,Public,Non-profit,Italy
+1,SCP0656,Maria Teresa Baldassarre,University of Bari Aldo Moro,University,Public,Non-profit,Italy
+1,SCP0656,Michele Scalera,University of Bari Aldo Moro,University,Public,Non-profit,Italy
+1,SCP0656,Mirko De Vincentiis,University of Bari Aldo Moro,University,Public,Non-profit,Italy
+1,SCP0659,Biresh Kumar,Amity University Jharkhand,University,Private,Non-profit,India
+1,SCP0659,Pooja Jha,Amity University Jharkhand,University,Private,Non-profit,India
+1,SCP0659,Vandana Sharma,Christ University,University,Private,Non-profit,India
+1,SCP0659,Anurag Sinha,Indira Gandhi National Open University,University,Public,Non-profit,India
+1,SCP0659,Hassan Raza Mahmood,National University of Computer and Emerging Sciences,University,Private,Non-profit,Pakistan
+1,SCP0659,Ahmed Alkhayyat,The Islamic University,University,Private,Non-profit,Iraq
+1,SCP0967,Ali Idri,University Mohamed V,University,Public,Non-profit,Morocco
+1,SCP0967,Salma El Koutbi,University Mohamed V,University,Public,Non-profit,Morocco
+1,SCP0983,Chih-Yu Chen,Chung Yuan Christian University,University,Private,Non-profit,Taiwan
+1,SCP0983,Ching-Ray Chang,Chung Yuan Christian University,University,Private,Non-profit,Taiwan
+1,SCP0983,Chi-Hsuan Wu,National Pingtung University,University,Public,Non-profit,Taiwan
+1,SCP0983,Chia-Ho Ou,National Pingtung University,University,Public,Non-profit,Taiwan
+1,SCP0983,Yu-Chen Tsai,National Pingtung University,University,Public,Non-profit,Taiwan
+1,SCP0983,Yu-Hong Li,National Pingtung University,University,Public,Non-profit,Taiwan
+1,SCP0983,Zhi-You Yan,National Pingtung University,University,Public,Non-profit,Taiwan
+1,WOS0011,Jianjun Zhao,Kyushu University,University,Public,Non-profit,Japan
+1,WOS0011,Junjie Luo,Kyushu University,University,Public,Non-profit,Japan
+1,WOS0011,Pengzhan Zhao,Kyushu University,University,Public,Non-profit,Japan
+1,WOS0011,Shuhan Lan,Kyushu University,University,Public,Non-profit,Japan
+1,WOS0011,Zhongtao Miao,Kyushu University,University,Public,Non-profit,Japan
+1,WOS0017,Mingsheng Ying,Tsinghua University,University,Public,Non-profit,China
+1,WOS0017,Yuan Feng,Tsinghua University,University,Public,Non-profit,China
+1,WOS0017,Mingsheng Ying,University of Technology Sydney,University,Public,Non-profit,Australia
+1,WOS0017,Yuan Feng,University of Technology Sydney,University,Public,Non-profit,Australia
+1,WOS0072,Beibei Yin,Beihang University,University,Public,Non-profit,China
+1,WOS0072,Kai-Yuan Cai,Beihang University,University,Public,Non-profit,China
+1,WOS0072,Linzhi Huang,Beihang University,University,Public,Non-profit,China
+1,WOS0072,Yuechen Li,Beihang University,University,Public,Non-profit,China
+1,WOS0072,Hanyu Pei,University of Science and Technology Beijing,University,Public,Non-profit,China
+1,WOS0121,Ignacio García-Rodríguez,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,WOS0121,Maria Teresa Merchan Quintana,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,WOS0121,Mario Piattini,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,WOS0121,Moises Rodriguez Monje,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,WOS0127,Davide Di Ruscio,University of L'Aquila,University,Public,Non-profit,Italy
+1,WOS0127,Luca Traini,University of L'Aquila,University,Public,Non-profit,Italy
+1,WOS0127,Muhammad Imran,University of L'Aquila,University,Public,Non-profit,Italy
+1,WOS0127,Riccardo Rubei,University of L'Aquila,University,Public,Non-profit,Italy
+1,WOS0127,Vittorio Cortellessa,University of L'Aquila,University,Public,Non-profit,Italy
+1,WOS0157,Tao Yue,Nanjing University of Aeronautics and Astronautics,University,Public,Non-profit,China
+1,WOS0157,Xinyi Wang,Nanjing University of Aeronautics and Astronautics,University,Public,Non-profit,China
+1,WOS0204,Jianjun Zhao,Kyushu University,University,Public,Non-profit,Japan
+1,WOS0204,Pengzhan Zhao,Kyushu University,University,Public,Non-profit,Japan
+1,WOS0204,Shuhan Lan,Kyushu University,University,Public,Non-profit,Japan
+1,WOS0204,Zhongtao Miao,Kyushu University,University,Public,Non-profit,Japan
+1,WOS0223,Sebastian Pombo Mott,Universidad ORT,University,Private,Non-profit,Uruguay
+1,WOS0223,Agustina Arismendi,University of the Republic,University,Public,Non-profit,Uruguay
+1,WOS0348,Nobukazu Yoshioka,Waseda University,University,Private,Non-profit,Japan
+1,WOS0888,Robert Rand,University of Chicago,University,Private,Non-profit,United States
+1,WOS0888,Aidan Evans,Yale University,University,Private,Non-profit,United States
+1,WOS0888,Robert Soule,Yale University,University,Private,Non-profit,United States
+1,WOS0888,Seun Omonije,Yale University,University,Private,Non-profit,United States
+1,WOS0916,Shaukat Ali,Oslo Metropolitan University,University,Public,Non-profit,Norway
+1,WOS0916,Asmar Muqeet,University of Oslo,University,Public,Non-profit,Norway
+1,WOS0956,Tao Yue,Nanjing University of Aeronautics and Astronautics,University,Public,Non-profit,China
+1,WOS1152,Arif Ali Khan,University of Oulu,University,Public,Non-profit,Finland
+1,WOS1152,Davide Taibi,University of Oulu,University,Public,Non-profit,Finland
+1,WOS1152,Maryam Tavassoli Sabzevari,University of Oulu,University,Public,Non-profit,Finland
+1,WOS1152,Matteo Esposito,University of Rome Tor Vergata,University,Public,Non-profit,Italy
+1,WOS1153,Guoqing Harry Xu,University of California,University,Public,Non-profit,United States
+1,WOS1153,Jiyuan Wang,University of California,University,Public,Non-profit,United States
+1,WOS1153,Miryung Kim,University of California,University,Public,Non-profit,United States
+1,WOS1153,Qian Zhang,University of California,University,Public,Non-profit,United States
+1,WOS1155,Muhammad Kashif,Hamad Bin Khalifa University,University,Private,Non-profit,Qatar
+1,WOS1155,Saif Al-Kuwari,Hamad Bin Khalifa University,University,Private,Non-profit,Qatar
+1,WOS1192,Hadi Salloum,Innopolis University,University,Public,Non-profit,Russia
+1,WOS1192,Manuel Mazzara,Innopolis University,University,Public,Non-profit,Russia
+1,WOS1192,Mohamad Nour Shahin,Innopolis University,University,Public,Non-profit,Russia
+1,WOS1192,Mohammad Reza Bahrami,Innopolis University,University,Public,Non-profit,Russia
+1,WOS1192,Suleiman Karim Eddin,Innopolis University,University,Public,Non-profit,Russia
+1,WOS1192,Mohammad Reza Bahrami,Samarkand International University of Technology,University,Private,Non-profit,Uzbekistan
+1,WOS1192,Badee Salloum,Syrian Virtual University,University,Public,Non-profit,Syria
+1,WOS1207,David Valencia,University of Extremadura,University,Public,Non-profit,Spain
+1,WOS1207,Enrique Moguel,University of Extremadura,University,Public,Non-profit,Spain
+1,WOS1207,Javier Berrocal,University of Extremadura,University,Public,Non-profit,Spain
+1,WOS1207,Javier Rojo,University of Extremadura,University,Public,Non-profit,Spain
+1,WOS1207,Jose Garcia-Alonso,University of Extremadura,University,Public,Non-profit,Spain
+1,WOS1207,Juan M. Murillo,University of Extremadura,University,Public,Non-profit,Spain
+1,WOS1249,Shaukat Ali,Oslo Metropolitan University,University,Public,Non-profit,Norway
+1,WOS1251,Tao Yue,Nanjing University of Aeronautics and Astronautics,University,Public,Non-profit,China
+1,WOS1251,Xinyi Wang,Nanjing University of Aeronautics and Astronautics,University,Public,Non-profit,China
+1,WOS1255,Fuyuan Zhang,Kyushu University,University,Public,Non-profit,Japan
+1,WOS1255,Jiaming Ye,Kyushu University,University,Public,Non-profit,Japan
+1,WOS1255,Jianjun Zhao,Kyushu University,University,Public,Non-profit,Japan
+1,WOS1255,Shangzhou Xia,Kyushu University,University,Public,Non-profit,Japan
+1,WOS1255,Lei Ma,University of Alberta,University,Public,Non-profit,Canada
+1,WOS1255,Lei Ma,University of Tokyo,University,Public,Non-profit,Japan
+1,WOS1314,Luis Jimenez-Navajas,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,WOS1314,Mario Piattini,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,WOS1314,Ricardo Pérez-Castillo,University of Castilla-La Mancha,University,Public,Non-profit,Spain
+1,WOS1366,Claudia Linnhoff-Popien,Ludwig Maximilian University of Munich,University,Public,Non-profit,Germany
+1,WOS1366,Marian Lingsch Rosenfeld,Ludwig Maximilian University of Munich,University,Public,Non-profit,Germany
+1,WOS1366,Thomas Gabor,Ludwig Maximilian University of Munich,University,Public,Non-profit,Germany
+1,WOS1388,Jingzhe Guo,Tsinghua University,University,Public,Non-profit,China
+1,WOS1388,Mingsheng Ying,Tsinghua University,University,Public,Non-profit,China
+1,WOS1453,Alejandro Fernandez,National University of La Plata,University,Public,Non-profit,Argentina
+1,WOS1453,Luis Mariano Bibbo,National University of La Plata,University,Public,Non-profit,Argentina
+1,WOS1453,Álvaro M. Aparicio-Morales,University of Extremadura,University,Public,Non-profit,Spain
+1,WOS1453,Enrique Moguel,University of Extremadura,University,Public,Non-profit,Spain
+1,WOS1453,Jose Garcia-Alonso,University of Extremadura,University,Public,Non-profit,Spain
+1,WOS1453,Juan M. Murillo,University of Extremadura,University,Public,Non-profit,Spain
+1,WOS1516,Jianjun Zhao,Kyushu University,University,Public,Non-profit,Japan
+1,WOS1516,Peixun Long,University of Chinese Academy of Sciences,University,Public,Non-profit,China
+2,R2ACM177,Gilbert Netzer,KTH Royal Institute of Technology,University,Public,Non-profit,Sweden
+2,R2ACM177,Ivy Peng,KTH Royal Institute of Technology,University,Public,Non-profit,Sweden
+2,R2ACM177,Luca Pennati,KTH Royal Institute of Technology,University,Public,Non-profit,Sweden
+2,R2ACM177,Stefano Markidis,KTH Royal Institute of Technology,University,Public,Non-profit,Sweden
+2,R2ACM765,Carmen Wong Jiawen,Singapore Institute of Technology,University,Public,Non-profit,Singapore
+2,R2ACM765,Declan Fong Yi Ren,Singapore Institute of Technology,University,Public,Non-profit,Singapore
+2,R2ACM765,Nikhil Bartake,Singapore Institute of Technology,University,Public,Non-profit,Singapore
+2,R2ACM765,See Toh Zi Jie,Singapore Institute of Technology,University,Public,Non-profit,Singapore
+2,R2ACM765,Vivek Balachandran,Singapore Institute of Technology,University,Public,Non-profit,Singapore
+2,R2ACM897,Christopher McNally,Massachusetts Institute of Technology,University,Private,Non-profit,United States
+2,R2ACM937,Amal Raj,Singapore Institute of Technology,University,Public,Non-profit,Singapore
+2,R2ACM937,Vivek Balachandran,Singapore Institute of Technology,University,Public,Non-profit,Singapore
+2,R2IEEE1218,Kartik Sharma,Vellore Institute of Technology,University,Private,Non-profit,India
+2,R2IEEE1218,Kumaran K,Vellore Institute of Technology,University,Private,Non-profit,India
+2,R2IEEE1218,Saranya G,Vellore Institute of Technology,University,Private,Non-profit,India
+2,R2IEEE1218,VidhyaLakshmi.M,Vellore Institute of Technology,University,Private,Non-profit,India
+2,R2IEEE440,Jaemin Hong,Korea Advanced Institute of Science and Technology,University,Public,Non-profit,Republic of Korea
+2,R2IEEE440,Kanguk Lee,Korea Advanced Institute of Science and Technology,University,Public,Non-profit,Republic of Korea
+2,R2IEEE440,Sukyoung Ryu,Korea Advanced Institute of Science and Technology,University,Public,Non-profit,Republic of Korea
+2,R2SCP233,Mir Mohammad Yousuf,National Institute of Technology Srinagar,University,Public,Non-profit,India
+2,R2SCP233,Shabir Ahmad Sofi,National Institute of Technology Srinagar,University,Public,Non-profit,India
+2,R2SCP865,Ina Schaefer,Karlsruhe Institute of Technology,University,Public,Non-profit,Germany
+1,SCP0081,J. Thangakumar,Hindustan Institute Of Technology And Sciences,University,Private,Non-profit,India
+1,SCP0081,Muthukumaran Malarvel,Hindustan Institute Of Technology And Sciences,University,Private,Non-profit,India
+1,SCP0081,Sathishkumar Nagarajan,Hindustan Institute Of Technology And Sciences,University,Private,Non-profit,India
+1,SCP0259,Andrew W. Cross,Massachusetts Institute of Technology,University,Private,Non-profit,United States
+1,SCP0259,Isaac Chuang,Massachusetts Institute of Technology,University,Private,Non-profit,United States
+1,SCP0659,Preety Shoran,Dr. Akhilesh Das Gupta Institute of Technology and Management,University,Private,Non-profit,India
+1,WOS0019,M. Ohki,Nippon Institute of Technology,University,Private,Non-profit,Japan
+1,WOS0019,Y. Kambayashi,Nippon Institute of Technology,University,Private,Non-profit,Japan
