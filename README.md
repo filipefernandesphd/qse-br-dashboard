@@ -10,7 +10,7 @@ Fully static web application for exploring paper metadata and affiliations from 
 - PapaParse
 - lucide-react
 
-## Run locally
+## Run locally 
 
 ```bash
 npm install
